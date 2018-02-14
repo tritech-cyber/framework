@@ -122,10 +122,11 @@ Physical ,  Data link, Network, Transport Session, Presentation and Application
 - Maintain a star network in the classroom.
 - Student hands on making Ethernet Cat5e cable.
 - Set up a local area network using a specified Inetnet Pprotocal (IP).
+- Students will assemble a list of parts to build a computer and publish the parts list on github.com
 YEAR 2
-Students help year 1 students with computer basics and RAM installation.
-Students help teach students ehternet RJ45 cable creation and 568B punchdown.
-
+- Students help year 1 students with computer basics and RAM installation.
+- Students help teach students ehternet RJ45 cable creation and 568B punchdown.
+- Students will create a bid to build a computer or server with year 1 students research parts.  
 
 ********************************************************************************
 C12:	Networking hardware and protocol. (Ethernet, wireless and OSI Model) 
