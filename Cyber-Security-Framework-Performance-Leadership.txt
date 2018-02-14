@@ -1,0 +1,158 @@
+CYBER SECURITY FRAMEWORK CONCEPTS
+
+CORE CONCEPTS
+C1: 	Safety
+C2: 	Career planning (Tri-Tech Portfolio)
+C3: 	Security ethics, security levels, security threats and defensive security.  
+C4: 	Linux installation, configuration, directory structure and Bash. Linux users and permissions
+C5:		Linux command line and introduction to BASH scripting. (BASH)
+C6:  	Linux server service installation and configuration. (Apache2, VSFTPD, Samba, and SSH)
+C7: 	HTML (Columbia Basin College course equivalency.  CS 114: HTML5  and CS 115:HTML5-Cascading Style Sheets
+C8:		Authentication: Google.com, Github.com, Microsoft.com( Imagine) and Amazon.com 				
+C9:		GIT and Github.com basics.
+C10: 	Introduction to computer programming (Python, PHP, C, C++,  Java, and SQL) 
+C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
+C12:	Networking hardware and protocol. (Ethernet, wireless and OSI Model) 
+C13:	Network monitoring tools (Wireshark, Linux command line tools)
+C14: 	Wired network fundamentals (IPV4, Subnetting, Routing, DHCP and Switching) 
+C15:	CISCO Networking (Packertracer and introductory CLI)
+C16:	Linux Virtualization.  Kernel Virtual Machine (KVM).
+C17:	Windows client installation and networking. (Virtual Machine and on harddrive)
+C18:	Mathematics, base conversions, logic gates and computer science mathematics.
+C19: 	Introduction to electronics and micro-controllers (Arduino)
+C20: 	Culminating Small Group Project
+
+ADVANCED CONCEPTS
+A1:		Windows server installation and configuration 
+A2: 	TCP/IP IPV4 and IPV6 DHCP
+A3: 	Advanced Linux server configuration.
+A3: 	Windows server installation and configuration 
+		NS, DHCP, HTTPD FTP, SQL, MAIL.
+A4:		Advanced authentication.  Amazon Web Services
+		(https://www.awseducate.com/Registration)
+A4: 	Advanced Computer Programming (Python, PHP, C, C++,  Java, and SQL)
+A5: 	Cryptography, encryption and standard security keys introduction.
+A6:		Wireless networking setup. 
+A7: 	Advanced projects:  Docker, Kubernetes, and Facebook CTF (Capture The Flag)
+A8: 	USCyberPatriot team competition. https://www.uscyberpatriot.org/
+A9:		AWS (Amazon Web Services) Linux configuration and security rules.
+A10: 	Culminating Individual or Small Group Project
+
+********************************************************************************
+C1: 	Safety
+Performance Assessments: 
+YEAR 1
+- Students will complete the safety course and assessment with a focus on eye safety, electricity safety, hand tool safety and general lifting safety.
+- Teacher lecture
+- Teacher demonstration
+- Read Text/Manual
+- Student guided practice lifting
+
+Safety Rules Activity A
+Safety Activity 1
+Safety Activity 2
+Students are assessed with a rubric and online test
+YEAR 2
+Students demonstate use of hand tools for use with RJ45 and 568B punch down.
+Students present safety guidelines to year 1 students.
+********************************************************************************
+C2: 	Career planning (Tri-Tech Portfolio)
+Performance Assesments:
+YEAR 1
+Employability:  All students are assessed on an employability rubric consisting of:  
+Positive Attitude and Teamwork:  
+Works effectively with others and contributes productively as a member of the team; 
+Professional Etiquette: 
+Understands and uses professional behavior and language; Appearance and Hygiene: Exhibits appropriate professional appearance and hygiene; Attendance and Punctuality: Contributes to the learning environment by consistent attendance; Self and Resource Management: Appropriate use of materials, resources and time; Equipment Safety and Maintenance: Utilizes equipment efficiently and safely.  The Employability Rubric is integrated into all standards. The students are assessed on the employability rubric each week by the instructor.
+
+Academic Portfolio: All students are required to complete an academic portfolio, which includes a resume, application, application letter, mission statement, employability skills rubric, program competency checklist (grades, progress report, transcripts, industry certifications, leadership, final project including a presentation and reflection paper, best works, high school & beyond plan, and log of outside hours (30 hours minimum including community service).
+
+The student’s culminating (final project) is a presentation of their final reflection paper and academic portfolio.  The project is assessed by the teacher, students, and guests using rubrics. 
+
+Students are required to complete a cost projection for educational training and design a spreadsheet for long term amortization of loan payment in order to estimate the cost of paying of student education loans.
+
+YEAR 2
+Students refine and add to their current portfolio.
+Students use their portfolio as an example to first year students.
+Students have an opportunity to job shadow.
+
+********************************************************************************
+C3: 	Security ethics, security levels, security threats and defensive security. 
+Performance Assessments: 
+YEAR 1
+- Research long term cost analysis of security deployment in industry.  Cost comparison for virus protection and cost to consumer.
+- Research cost analysis to repair malware and viruses.  Is it cheaper to re-install or repair? (OWT.COM in Kennewick charges $60 to $70 per hour.)
+- Linux Permissions based on value. Decimal to binary.
+- Students do hands on activities (configure security level on a client work station and server; cyber security threats to computers and networking hardware; defensive security strategies and manage cloud storage ethically)
+- Students monitor Google Suite for Education (G Suite for Education )
+- Students will manage a personal Github.com account with an email not associated with thier home school.
+- 
+- All assessments and activities will be assessed by the instructor with rubrics.
+
+YEAR 2
+- Students will teach year 1 students in use of G Suite for Education .
+- Students will model use of github with year 1 students.
+- Students will manage a remote Linux and Windows server and deploy security measures.
+
+ 
+********************************************************************************
+C4: 	Linux installation, configuration, directory structure and Bash. Linux users and permissions
+********************************************************************************
+C5:		Linux command line and introduction to BASH scripting. (BASH)
+********************************************************************************
+C6:  	Linux server service installation and configuration. (Apache2, VSFTPD, Samba, and SSH)
+********************************************************************************
+C7: 	HTML (Columbia Basin College course equivalency.  CS 114: HTML5  and CS 115:HTML5-Cascading Style Sheets
+********************************************************************************
+C8:		Authentication: Google.com, Github.com, Microsoft.com( Imagine) and Amazon.com 		
+********************************************************************************		
+C9:		GIT and Github.com basics.
+********************************************************************************
+C10: 	Introduction to computer programming (Python, PHP, C, C++,  Java, and SQL) 
+********************************************************************************
+C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
+YEAR 1
+- Students take apart and rebuild building a computer.
+- Students install RAM (Random Access Memory).
+- Students inStall operating systems.
+- Student will generate a bid for proposal spreadsheet for purchasing network equipment for a small business with less than 24 nodes with wireless capabilities including more than one wireless access point.  This bid will eventually include work stations and servers.
+-  The OSI (Open System Interconnection) model and services in each of the 7 levels Activity.
+Physical ,  Data link, Network, Transport Session, Presentation and Application
+9.	The TCP/IP (Transmission Control Protocol/Internet Protocol) Activity.
+- Maintain a star network in the classroom.
+- Student hands on making Ethernet Cat5e cable.
+- Set up a local area network using a specified Inetnet Pprotocal (IP).
+YEAR 2
+Students help year 1 students with computer basics and RAM installation.
+Students help teach students ehternet RJ45 cable creation and 568B punchdown.
+
+
+********************************************************************************
+C12:	Networking hardware and protocol. (Ethernet, wireless and OSI Model) 
+********************************************************************************
+C13:	Network monitoring tools (Wireshark, Linux command line tools)
+********************************************************************************
+C14: 	Wired network fundamentals (IPV4, Subnetting, Routing, DHCP and Switching) 
+********************************************************************************
+C15:	CISCO Networking (Packertracer and introductory CLI)
+********************************************************************************
+C16:	Linux Virtualization.  Kernel Virtual Machine (KVM).
+********************************************************************************
+C17:	Windows client installation and networking. (Virtual Machine and on harddrive)
+********************************************************************************
+C18:	Mathematics, base conversions, logic gates and computer science mathematics.
+
+ Hands on labs to create vidual models of multiples of bytes: kilo, mega, giga, tera, peta, exa, zetta and yotta.  With kilo, mega and giga being the most important.
+7.	LAB: HOMEWORK.  tracert (DOS)  traceroute (BASH)
+********************************************************************************
+C19: 	Introduction to electronics and micro-controllers (Arduino)
+********************************************************************************
+C20: 	Culminating Small Group Project
+
+
+Notes:
+Google Apps For Education 
+Git Hub
+Amazon Services
+US CyberPatriot
+Docker Community Edition for AWS
