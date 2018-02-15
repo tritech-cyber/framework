@@ -46,14 +46,10 @@ YEAR 1
 - Teacher demonstration
 - Read Text/Manual
 - Student guided practice lifting
-
-Safety Rules Activity A
-Safety Activity 1
-Safety Activity 2
-Students are assessed with a rubric and online test
+- Students are assessed with a rubric and on-line test
 YEAR 2
-Students demonstrate use of hand tools for use with RJ45 and 568B punch down.
-Students present safety guidelines to year 1 students.
+- Students demonstrate use of hand tools for use with RJ45 and 568B punch down.
+- Students present safety guidelines to year 1 students.
 ********************************************************************************
 C2: 	Career planning (Tri-Tech Portfolio)
 Performance Assessments:
@@ -77,12 +73,12 @@ Students have an opportunity to job shadow.
 
 ********************************************************************************
 C3: 	Security ethics, security levels, security threats and defensive security. 
-	
 Performance Assessments: 
 YEAR 1
 - Students will create an Ethics Agreement Document that will be placed in their portfolio and a notebook in the Cyber Security Lab.
 - Research long term cost analysis of security deployment in industry.  Cost comparison for virus protection and cost to consumer.
-- Research cost analysis to repair malware and viruses.  Is it cheaper to re-install or repair? (OWT.COM in Kennewick charges $60 to $70 per hour.)
+- Research cost analysis to repair malware and viruses.  
+	Is it cheaper to re-install or repair? (OWT.COM in Kennewick charges $60 to $70 per hour.)
 - Linux Permissions based on value. Decimal to binary.
 - Students do hands on activities (configure security level on a client work station and server; cyber security threats to computers and networking hardware; defensive security strategies and manage cloud storage ethically)
 - Students monitor Google Suite for Education (G Suite for Education )
@@ -96,7 +92,6 @@ YEAR 2
 - Students will manage github group projects.
 - Students will manage a remote Linux and Windows server and deploy security measures.
 
- 
 ********************************************************************************
 C4: 	Linux installation, configuration, directory structure and Bash. Linux users and permissions
 Performance Assessments: 
@@ -105,8 +100,9 @@ YEAR 1
 - Students will install more than one Linux distribution.
 - Student will install Linux packages using more than one file management system.  
 	APT (for Advanced Package Tool)(apt, yum and rpm)
-- Students will understand the Linux directory and file structure and how it related to the operation of the operating systemharddrive 
+- Students will understand the Linux directory and file structure and how it related to the operation of the operating system 
 - Students will learn basic command line command to operate a Linux system.
+- Students will learn Linux permissions 
 - Students will understand and use hard-drive partitioning techniques. 
 - Students will learn combinations of Bash commands.
 - Students will install Linux as a virtual machine.
@@ -117,9 +113,12 @@ YEAR 2
 - Students will install a Redhat Linux based system virtually or on bare metal.
 - Students will use YUM (Yellowdog Updater Modified) and RPM (RedHat Package Manager).
 - Students will manage a headless (No monitor) Linux server.
-
-
-
+- Students will demonstrate to year 1 students the file permissions and the correlation with binary numbers.
+	drwxrwxrwx (Notation)
+	Description:
+	File or direcotry 	User	Group  	Other   
+	d 					rwx 	rwx 	rxw		
+	Examples: 755 for a directory is: drwx r-x r-x
 ********************************************************************************
 C5:		Linux command line and introduction to BASH scripting. (BASH = Bourne Again SHell)
 Performance Assessments:
@@ -256,6 +255,14 @@ C19: 	Introduction to electronics and micro-controllers (Arduino)
 Performance Assessments: 
 ********************************************************************************
 C20: 	Culminating Small Group Project
+Performance Assessments: 
+
+
+
+
+
+
+
 
 
 Notes:
