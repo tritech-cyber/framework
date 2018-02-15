@@ -8,7 +8,8 @@ C4: 	Linux installation, configuration, directory structure and Bash. Linux user
 C5:		Linux command line and introduction to BASH scripting. (BASH)
 C6:  	Linux server service installation and configuration. (Apache2, VSFTPD, Samba, and SSH)
 C7: 	HTML (Columbia Basin College course equivalency.  CS 114: HTML5  and CS 115:HTML5-Cascading Style Sheets
-C8:		Authentication: Google.com, Github.com, Microsoft.com( Imagine) and Amazon.com 				
+C8:		INTRODUCTION TO CRYPTOGRAPHY, ENCRYPTION, STANDARD SECURITY KEYS and Authentication: 
+		Google.com, Github.com, Microsoft.com( Imagine), Amazon.com, Logic Gates and RSA Keys. 				
 C9:		GIT and Github.com basics.
 C10: 	Introduction to computer programming (Python, PHP, C, C++,  Java, and SQL) 
 C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
@@ -78,6 +79,7 @@ Students have an opportunity to job shadow.
 
 ********************************************************************************
 C3: 	Security ethics, security levels, security threats and defensive security. 
+	
 Performance Assessments: 
 YEAR 1
 - Students will create an Ethics Agreement Document that will be placed in their portfolio and a notebook in the Cyber Security Lab.
@@ -148,17 +150,24 @@ YEAR 1
 - Students will use SYSTEMD (systemctl) to control services.
 
 YEAR 2
-- Students will install a Linux system that used INIT system to run services on a virtual machine.
 - Students will install and configure the following Linux server using Centos or Fedora:
 	APACHE2, NGINX, VSFTPD, SAMBA, SSH AND LANGUAGE BASED SERVICES SUCH AS NODEJS AND PYTHON WEB SERVERS.
-	
+- Students will refine Linux server security.
+- Student will propagate custom web server logs.
 
 
 YEAR 2
 ********************************************************************************
 C7: 	HTML (Columbia Basin College course equivalency.  CS 114: HTML5  and CS 115:HTML5-Cascading Style Sheets
 ********************************************************************************
-C8:		Authentication: Google.com, Github.com, Microsoft.com( Imagine) and Amazon.com 		
+C8:		Authentication: Google.com, Github.com, Microsoft.com( Imagine) and Amazon.com 	
+YEAR 1
+Students will be introduced to the history of Cryptography.
+Students will document an understanding of the fundamentals of modern Cryptography.
+Students will code encryption and decryption algorithms using more than one programming language
+Students will implement encryption and decryption strategies using and array of Open Source Software solutions.
+
+	
 ********************************************************************************		
 C9:		GIT and Github.com basics.
 ********************************************************************************
