@@ -8,20 +8,18 @@ C4: 	Linux installation, configuration, directory structure and Bash. Linux user
 C5:		Linux command line and introduction to BASH scripting. (BASH)
 C6:  	Linux server service installation and configuration. (Apache2, VSFTPD, Samba, and SSH)
 C7: 	HTML (Columbia Basin College course equivalency.  CS 114: HTML5  and CS 115:HTML5-Cascading Style Sheets
-C8:		INTRODUCTION TO CRYPTOGRAPHY, ENCRYPTION, STANDARD SECURITY KEYS and Authentication: 
-		Google.com, Github.com, Microsoft.com( Imagine), Amazon.com, Logic Gates and RSA Keys. 				
+C8:		Cryptography, encryption, security keys and authentication.	
 C9:		GIT and Github.com basics.
 C10: 	Introduction to computer programming (Python, PHP, C, C++,  Java, and SQL) 
 C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
 C12:	Networking hardware and protocol. (Ethernet, wireless and OSI Model) 
 C13:	Network monitoring tools (Wireshark, Linux command line tools)
-C14: 	Wired network fundamentals (IPV4, Sub-netting, Routing, DHCP and Switching) 
-C15:	CISCO Networking (Packertracer and introductory CLI)
-C16:	Linux Vitalization.  Kernel Virtual Machine (KVM).
-C17:	Windows client installation and networking. (Virtual Machine and on harddrive)
-C18:	Mathematics, base conversions, logic gates and computer science mathematics.
-C19: 	Introduction to electronics and micro-controllers (Arduino)
-C20: 	Culminating Small Group Project
+C14:	CISCO Networking (Packertracer and introductory CLI)
+C15:	Linux Vitalization.  Kernel Virtual Machine (KVM).
+C16:	Windows client installation and networking. (Virtual Machine and on harddrive)
+C17:	Mathematics, base conversions, logic gates and computer science mathematics.
+C18: 	Introduction to electronics and micro-controllers (Arduino)
+C19: 	Year 1 Culminating Small Group Project
 
 ADVANCED CONCEPTS
 A1:		Windows server installation and configuration 
@@ -37,7 +35,7 @@ A6:		Wireless networking setup.
 A7: 	Advanced projects:  Docker, Kubernetes, and Facebook CTF (Capture The Flag)
 A8: 	USCyberPatriot team competition. https://www.uscyberpatriot.org/
 A9:		AWS (Amazon Web Services) Linux configuration and security rules.
-A10: 	Culminating Individual or Small Group Project
+A10: 	Year 2 Culminating Individual or Small Group Project
 
 ********************************************************************************
 C1: 	Safety
@@ -124,6 +122,7 @@ YEAR 2
 
 ********************************************************************************
 C5:		Linux command line and introduction to BASH scripting. (BASH = Bourne Again SHell)
+Performance Assessments:
 YEAR 1
 - Students will learn and practice a wide variety of Linux commands. 
 	A list of commands is located in this directory http://tritechsc.ksd.org/cyber/documentation/linux/command-line/ 
@@ -142,6 +141,7 @@ YEAR 2
 
 ********************************************************************************
 C6:  	Linux server service installation and configuration. (Apache2, VSFTPD, Samba, and SSH)
+Performance Assessments:
 YEAR 1
 - Students will install and configure the following Linux server applications using Debian:
 	APACHE2, NGINX, VSFTPD, SAMBA, SSH AND LANGUAGE BASED SERVICES SUCH AS NODEJS AND PYTHON WEB SERVERS.
@@ -158,43 +158,71 @@ YEAR 2
 
 YEAR 2
 ********************************************************************************
-C7: 	HTML (Columbia Basin College course equivalency.  CS 114: HTML5  and CS 115:HTML5-Cascading Style Sheets
+C7: 	HTML5  
+Performance Assessments:
+YEAR 1 - CS 114: HTML5 (Columbia Basin College course equivalency.)
+	This course provides students with the skills needed to create web pages using HTML5 elements and attributes. Students learn how to include text, pictures, and hypertext links, as well as tables, forms, and frames. They also learn how to create and manipulate image maps and animated GIFs. In addition, students are exposed to the critical design concepts including: visual design, user interface design, designing for accessibility, and designing technically correct (valid) documents.
+	(http://www.columbiabasin.edu/apps/oca/cat/crs_info.aspx?id=CS+++114)
+
+YEAR 2 - CS 115:HTML5-Cascading Style Sheets (Columbia Basin College course equivalency.)
+	Students learn how to use Cascading Style Sheets to control the appearance and layout of HTML and XML documents; how to control text properties such as typeface, size, etc., and box properties such as width, margins, etc. to control layout; to use media queries to build pages that are responsive and mobile friendly; and how to use CSS3 special effects to do things like controlling transparency, rotating objects, and adding glows and shadows. 
+	(http://www.columbiabasin.edu/apps/oca/cat/crs_info.aspx?id=CS+++115) 
 ********************************************************************************
-C8:		Authentication: Google.com, Github.com, Microsoft.com( Imagine) and Amazon.com 	
+C8:		Cryptography, encryption, security keys and authentication.
+		 Logic Gates and RSA Keys. 
+Performance Assessments:
 YEAR 1
 Students will be introduced to the history of Cryptography.
 Students will document an understanding of the fundamentals of modern Cryptography.
-Students will code encryption and decryption algorithms using more than one programming language
+Students will code simple logic algorithms using more than one programming language.
 Students will implement encryption and decryption strategies using and array of Open Source Software solutions.
+Students will configure a web server to use SSL certificates.
+Students will use Google.com, Github.com, Microsoft.com( Imagine) and Amazon.com and for web based authentication.
 
-	
+YEAR 2
+Students will lead encryption coding group projects.
+Students will use PHP to encrypt login sessions.
+Students will configure an OAUTH2 service using PHP. 
+Students will assist year 1 students with Microsoft imagine accounts.
 ********************************************************************************		
 C9:		GIT and Github.com basics.
+Performance Assessments:
 ********************************************************************************
-C10: 	Introduction to computer programming (Python, PHP, C, C++,  Java, and SQL) 
+C10: 	Introduction to computer programming (Python, PHP, C, C++, Java, Javascript and SQL) 
+Performance Assessments:
+
 ********************************************************************************
 C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
+Performance Assessments:
 YEAR 1
 - Students take apart and rebuild building a computer.
 - Students install RAM (Random Access Memory).
 - Students inStall operating systems.
 - Student will generate a bid for proposal spreadsheet for purchasing network equipment for a small business with less than 24 nodes with wireless capabilities including more than one wireless access point.  This bid will eventually include work stations and servers.
+
+- Students will assemble a list of parts to build a computer and publish the parts list on github.com
+
+YEAR 2
+- Students help year 1 students with computer basics and RAM installation.
+- Students will assist in reparing computers for the Tri-Tech Computer Donation program.
+
+
+********************************************************************************
+C12:	Networking hardware and protocol. (Ethernet, wireless and OSI Model) 
+Performance Assessments:
+
+
 -  The OSI (Open System Interconnection) model and services in each of the 7 levels Activity.
 Physical ,  Data link, Network, Transport Session, Presentation and Application
 9.	The TCP/IP (Transmission Control Protocol/Internet Protocol) Activity.
 - Maintain a star network in the classroom.
 - Student hands on making Ethernet Cat5e cable.
 - Set up a local area network using a specified Inetnet Pprotocal (IP).
-- Students will assemble a list of parts to build a computer and publish the parts list on github.com
-YEAR 2
-- Students help year 1 students with computer basics and RAM installation.
 - Students help teach students ehternet RJ45 cable creation and 568B punchdown.
 - Students will create a bid to build a computer or server with year 1 students research parts.  
-
-********************************************************************************
-C12:	Networking hardware and protocol. (Ethernet, wireless and OSI Model) 
 ********************************************************************************
 C13:	Network monitoring tools (Wireshark, Linux command line tools)
+Performance Assessments:
 YEAR 1
 - Students will install Wireshark on Linux and Microsoft systems.
 - Students will deploy simple Wireshark filters and save collected data.
@@ -202,30 +230,30 @@ YEAR 1
 - Students will deploy networking monitoring scripts using CRONTAB.
 
 YEAR 2
-Advanced wireshark
+- Advanced wireshark
 – Watch video from Chappell University with respect to Wireshark and apply concepts from video. 
 – Students will document time spent with free on-line training with Wireshark at https://www.chappellu.com.	
 - Students will write BASH scipt to document network traffic in in log files.
 - Student will write Python script to monitor network traffic. Introductory.
 
-
-********************************************************************************
-C14: 	Wired network fundamentals (IPV4, Subnetting, Routing, DHCP and Switching) 
-
-
 ********************************************************************************
 C15:	CISCO Networking (Packertracer and introductory CLI)
+Performance Assessments: 
 ********************************************************************************
 C16:	Linux Virtualization.  Kernel Virtual Machine (KVM).
+Performance Assessments: 
 ********************************************************************************
 C17:	Windows client installation and networking. (Virtual Machine and on harddrive)
+Performance Assessments: 
 ********************************************************************************
 C18:	Mathematics, base conversions, logic gates and computer science mathematics.
+Performance Assessments: 
 
  Hands on labs to create vidual models of multiples of bytes: kilo, mega, giga, tera, peta, exa, zetta and yotta.  With kilo, mega and giga being the most important.
 7.	LAB: HOMEWORK.  tracert (DOS)  traceroute (BASH)
 ********************************************************************************
 C19: 	Introduction to electronics and micro-controllers (Arduino)
+Performance Assessments: 
 ********************************************************************************
 C20: 	Culminating Small Group Project
 
