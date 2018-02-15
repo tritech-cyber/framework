@@ -1,0 +1,8 @@
+-  The OSI (Open System Interconnection) model and services in each of the 7 levels Activity.
+Physical ,  Data link, Network, Transport Session, Presentation and Application
+9.	The TCP/IP (Transmission Control Protocol/Internet Protocol) Activity.
+- Maintain a star network in the classroom.
+- Student hands on making Ethernet Cat5e cable.
+- Set up a local area network using a specified Inetnet Pprotocal (IP).
+- Students help teach students ehternet RJ45 cable creation and 568B punchdown.
+- Students will create a bid to build a computer or server with year 1 students research parts.  
