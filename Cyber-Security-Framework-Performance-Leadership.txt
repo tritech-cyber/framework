@@ -12,9 +12,8 @@ C8:		Cryptography, encryption, security keys and authentication.
 C9:		GIT and Github.com basics.
 C10: 	Introduction to computer programming (Python, PHP, C, C++,  Java, and SQL) 
 C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
-C12:	Networking hardware and protocol. (Ethernet, wireless and OSI Model) 
-C13:	Network monitoring tools (Wireshark, Linux command line tools)
-C14:	CISCO Networking (Packertracer and introductory CLI)
+C12:	Networking.
+		[Open System Interconnection (OSI) Model, hardware, wired, wireless, monitoring tools, and CISCO]
 C15:	Linux Vitalization.  Kernel Virtual Machine (KVM).
 C16:	Windows client installation and networking. (Virtual Machine and on harddrive)
 C17:	Mathematics, base conversions, logic gates and computer science mathematics.
@@ -54,22 +53,52 @@ YEAR 2
 C2: 	Career planning (Tri-Tech Portfolio)
 Performance Assessments:
 YEAR 1
-Employability:  All students are assessed on an employability rubric consisting of:  
-Positive Attitude and Teamwork:  
-Works effectively with others and contributes productively as a member of the team; 
-Professional Etiquette: 
-Understands and uses professional behavior and language; Appearance and Hygiene: Exhibits appropriate professional appearance and hygiene; Attendance and Punctuality: Contributes to the learning environment by consistent attendance; Self and Resource Management: Appropriate use of materials, resources and time; Equipment Safety and Maintenance: Utilizes equipment efficiently and safely.  The Employability Rubric is integrated into all standards. The students are assessed on the employability rubric each week by the instructor.
+- Employability:  All students are assessed on an employability rubric consisting of:  
+* Positive Attitude and Teamwork 
+* Works effectively with others and contributes productively as a member of the team
+* Professional Etiquette
+* Understands and uses professional behavior and language
+* Appearance and Hygiene
+* Exhibits appropriate professional appearance and hygiene 
+* Attendance and Punctuality 
+Contributes to the learning environment by consistent attendance
+* Self and Resource Management 
+* Appropriate use of materials, resources and time
+* Equipment Safety and Maintenance
+* Utilizes equipment efficiently and safely
+* The Employability Rubric is integrated into all standards. The students are assessed on the employability rubric each week by the instructor.
 
-Academic Portfolio: All students are required to complete an academic portfolio, which includes a resume, application, application letter, mission statement, employability skills rubric, program competency checklist (grades, progress report, transcripts, industry certifications, leadership, final project including a presentation and reflection paper, best works, high school & beyond plan, and log of outside hours (30 hours minimum including community service).
+- Academic Portfolio: All students are required to complete an academic portfolio, which includes a resume, application, application letter, mission statement, employability skills rubric, program competency checklist (grades, progress report, transcripts, industry certifications, leadership, final project including a presentation and reflection paper, best works, high school & beyond plan, and log of outside hours (30 hours minimum including community service).
 
-The student’s culminating (final project) is a presentation of their final reflection paper and academic portfolio.  The project is assessed by the teacher, students, and guests using rubrics. 
+- The student’s culminating (final project) is a presentation of their final reflection paper and academic portfolio.  The project is assessed by the teacher, students, and guests using rubrics. 
 
-Students are required to complete a cost projection for educational training and design a spreadsheet for long term amortization of loan payment in order to estimate the cost of paying of student education loans.
+- Students will write an APA style research paper that focuses on career exploration.
 
 YEAR 2
-Students refine and add to their current portfolio.
-Students use their portfolio as an example to first year students.
-Students have an opportunity to job shadow.
+- Employability:  All students are assessed on an employability rubric consisting of:  
+* Positive Attitude and Teamwork 
+* Works effectively with others and contributes productively as a member of the team
+* Professional Etiquette
+* Understands and uses professional behavior and language
+* Appearance and Hygiene
+* Exhibits appropriate professional appearance and hygiene 
+* Attendance and Punctuality 
+Contributes to the learning environment by consistent attendance
+* Self and Resource Management 
+* Appropriate use of materials, resources and time
+* Equipment Safety and Maintenance
+* Utilizes equipment efficiently and safely
+* The Employability Rubric is integrated into all standards. The students are assessed on the employability rubric each week by the instructor.
+
+- Academic Portfolio: All students are required to complete an academic portfolio, which includes a resume, application, application letter, mission statement, employability skills rubric, program competency checklist (grades, progress report, transcripts, industry certifications, leadership, final project including a presentation and reflection paper, best works, high school & beyond plan, and log of outside hours (30 hours minimum including community service).
+
+- The student’s culminating (final project) is a presentation of their final reflection paper and academic portfolio.  The project is assessed by the teacher, students, and guests using rubrics. 
+
+- Students will wirte and APA style research paper that focuses on career exploration.
+- Students refine and add to their current portfolio.
+- Students use their portfolio as an example to first year students.
+- Students will write an APA style research paper that focuses on career exploration. Students will write another paper different than the year 1 paper.
+- Students have an opportunity to job shadow.
 
 ********************************************************************************
 C3: 	Security ethics, security levels, security threats and defensive security. 
@@ -110,6 +139,7 @@ YEAR 1
 - Students will configure Linux to serve as a server with multiple services.
 
 YEAR 2
+- Year 2 students will repeat year 1 performance assessments if they need more practice.
 - Students will install a Redhat Linux based system virtually or on bare metal.
 - Students will use YUM (Yellowdog Updater Modified) and RPM (RedHat Package Manager).
 - Students will manage a headless (No monitor) Linux server.
@@ -132,6 +162,7 @@ YEAR 1
 - Students will write and implement Crontab BASH script.
 - Student will create a BASH github.com repository.
 YEAR 2
+- Year 2 students will repeat year 1 performance assessments if they need more practice.
 - Students will write advanced BASH scripts.
 - Students use BASH on a remote server.
 - Students will share and explain BASH scripts to year 1 students.
@@ -149,6 +180,7 @@ YEAR 1
 - Students will use SYSTEMD (systemctl) to control services.
 
 YEAR 2
+- Year 2 students will repeat year 1 performance assessments if they need more practice.
 - Students will install and configure the following Linux server using Centos or Fedora:
 	APACHE2, NGINX, VSFTPD, SAMBA, SSH AND LANGUAGE BASED SERVICES SUCH AS NODEJS AND PYTHON WEB SERVERS.
 - Students will refine Linux server security.
@@ -171,21 +203,33 @@ C8:		Cryptography, encryption, security keys and authentication.
 		 Logic Gates and RSA Keys. 
 Performance Assessments:
 YEAR 1
-Students will be introduced to the history of Cryptography.
-Students will document an understanding of the fundamentals of modern Cryptography.
-Students will code simple logic algorithms using more than one programming language.
-Students will implement encryption and decryption strategies using and array of Open Source Software solutions.
-Students will configure a web server to use SSL certificates.
-Students will use Google.com, Github.com, Microsoft.com( Imagine) and Amazon.com and for web based authentication.
+- Students will be introduced to the history of Cryptography.
+- Students will document an understanding of the fundamentals of modern Cryptography.
+- Students will code simple logic algorithms using more than one programming language.
+- Students will implement encryption and decryption strategies using and array of Open Source Software solutions.
+- Students will configure a web server to use SSL certificates.
+- Students will use Google.com, Github.com, Microsoft.com( Imagine) and Amazon.com and for web based authentication.
 
 YEAR 2
-Students will lead encryption coding group projects.
-Students will use PHP to encrypt login sessions.
-Students will configure an OAUTH2 service using PHP. 
-Students will assist year 1 students with Microsoft imagine accounts.
+- Year 2 students will repeat year 1 performance assessments if they need more practice.
+- Students will lead encryption coding group projects.
+- Students will use PHP to encrypt login sessions.
+- Students will configure an OAUTH2 service using PHP. 
+- Students will assist year 1 students with Microsoft imagine accounts.
 ********************************************************************************		
 C9:		GIT and Github.com basics.
 Performance Assessments:
+YEAR 1
+- Students will create a github.com account using a professional email username that is not asssociated with a school district email and a professional Github.com username.
+- Students will create the following Github.com repositories: html, http, python, networking, ccode	, java, nodejs, php, bash, sql, linux, windows and username.github.io
+- Students will populate repositories with the web interface and command line using Linux and Windows.
+- Students will work on group projects using github.
+- Students will create a web page using Github.com with a username.github.io repository.
+YEAR 2
+- Year 2 students will repeat year 1 performance assessments if they need more practice.
+- Students will refine git command line skills.
+- Students will lead project teams developing code repositories.
+
 ********************************************************************************
 C10: 	Introduction to computer programming (Python, PHP, C, C++, Java, Javascript and SQL) 
 Performance Assessments:
@@ -202,31 +246,25 @@ YEAR 1
 - Students will assemble a list of parts to build a computer and publish the parts list on github.com
 
 YEAR 2
+- Year 2 students will repeat year 1 performance assessments if they need more practice.
 - Students help year 1 students with computer basics and RAM installation.
-- Students will assist in reparing computers for the Tri-Tech Computer Donation program.
+- Students will assist in repairing computers for the Tri-Tech Computer Donation program.
 
 
 ********************************************************************************
 C12:	Networking hardware and protocol. (Ethernet, wireless and OSI Model) 
 Performance Assessments:
 
-
--  The OSI (Open System Interconnection) model and services in each of the 7 levels Activity.
-Physical ,  Data link, Network, Transport Session, Presentation and Application
-9.	The TCP/IP (Transmission Control Protocol/Internet Protocol) Activity.
-- Maintain a star network in the classroom.
-- Student hands on making Ethernet Cat5e cable.
-- Set up a local area network using a specified Inetnet Pprotocal (IP).
-- Students help teach students ehternet RJ45 cable creation and 568B punchdown.
-- Students will create a bid to build a computer or server with year 1 students research parts.  
-********************************************************************************
-C13:	Network monitoring tools (Wireshark, Linux command line tools)
-Performance Assessments:
-YEAR 1
 - Students will install Wireshark on Linux and Microsoft systems.
 - Students will deploy simple Wireshark filters and save collected data.
 - Students will use Linux command line tools such as nmap, arp and netcat to collect network traffic.
 - Students will deploy networking monitoring scripts using CRONTAB.
+
+********************************************************************************
+C13:	Network monitoring tools (Wireshark, Linux command line tools)
+Performance Assessments:
+YEAR 1
+
 
 YEAR 2
 - Advanced wireshark
@@ -266,6 +304,26 @@ Performance Assessments:
 
 
 Notes:
+*******************************************************************
+COMPUTER SCIENCE STANDARDS
+3A	Grades 9–10
+3B	Grades 11–12 
+A	Algorithms and Programming 
+C	Computing Systems
+D	Data and Analysis
+I	Impacts of Computing
+N	Networks and the Internet
+1	Fostering an Inclusive Computing Culture 
+2	Collaborating 
+3	Recognizing and Defining Computational Problems 
+4	Developing and Using Abstractions 
+5	Creating Computational Artifacts 
+6	Testing and Refining 
+7	Communicating about Computing 
+
+
+
+
 Google Apps For Education 
 Git Hub
 Amazon Services
