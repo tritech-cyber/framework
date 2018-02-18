@@ -288,8 +288,8 @@ Performance Assessments:
 YEAR 1
 - Students will install KVM and VMWare on Linux computers. (Debian 9 is preferred).
 - Students will install Virtual Box and VMWare on Microsoft Windows computers.
-- Students will deploy the following applications on Linux computers:
-	Apache2, Nginx, Samba, Docker, VSFTP, Python script and more.
+- Students will deploy the following applications on Linux bare metal and VM:
+	Apache2, Nginx, Samba, Docker, VSFTP, GIT and more.
 - Students will configure applications installed on Linux virtual images.
 - Students will configure the network interface using NAT and Bridge mode.
 - Students will observe system security options on Linux systems.
@@ -303,16 +303,14 @@ C14:	Microsoft
 		Windows client installation and networking. 
 		(Bare metal and VM)
 YEAR 1
-- Students will install KVM and VMWare on Linux computers. (Debian 9 is preferred).
 - Students will install Virtual Box and VMWare on Microsoft Windows computers.
-- Students will deploy the following applications on Linux computers:
-	Apache2, Nginx, Samba, Docker, VSFTP, Python script and more.
-- Students will configure applications installed on Linux virtual images.
-- Students will configure the network interface using NAT and Bridge mode.
-- Students will observe system security options on Linux systems.
-- Microsoft Windows installation will be covered in section C14.
+- Students will deploy the following applications on Windows computers (Bare metal and VM):
+	Nginx, Docker, BASH, Python, GIT, Filezilla, Cygwin (gcc, ssh), Geany, Notepad++ and Libre Office.
+- Students wil use Microsoft Management Console (MMC) modify users and groups along with other Windows settings.
+- Students will configure the network interface using a static and DHCP ip address.
 YEAR 2
-- Year 2 students will repeat year 1 performance assessments if they need more practice.		
+- Year 2 students will repeat year 1 performance assessments if they need more practice.
+- Students will extend their knowledge of MMC.
 		
 ********************************************************************************
 C18:	Mathematics, base conversions, logic gates and computer science mathematics.
