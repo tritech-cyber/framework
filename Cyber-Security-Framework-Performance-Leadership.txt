@@ -8,7 +8,7 @@ C4: 	Linux installation, configuration, directory structure and Bash. Linux user
 C5:		Linux command line and introduction to BASH scripting. (BASH)
 C6:  	Linux server service installation and configuration. (Apache2, VSFTPD, Samba, and SSH)
 C7: 	HTML 
-	(Columbia Basin College course equivalency.  CS 114: HTML5  and CS 115:HTML5-Cascading Style Sheets
+		(Columbia Basin College course equivalency.  CS 114: HTML5  and CS 115:HTML5-Cascading Style Sheets
 C8:		Cryptography, encryption, security keys and authentication.	
 C9:		GIT and Github.com basics.
 C10: 	Introduction to computer programming (Python, PHP, C, C++,  Java, and SQL) 
@@ -234,8 +234,33 @@ YEAR 2
 - Students will lead project teams developing code repositories.
 
 ********************************************************************************
-C10: 	Introduction to computer programming (Python, PHP, C, C++, Java, Javascript and SQL) 
+C10: 	Introduction to computer programming (Python, BASH, PHP, C, C++, Java, Javascript and SQL) 
 Performance Assessments:
+YEAR 1
+- Students will be introduce the the following programing languages:
+	Python, BASH, PHP, C, C++, Java, Javascript and SQ
+- Students will write code that incorporates the following:
+	* Text input and output.
+	* For, while and repeat until loops.
+	* If conditions.
+	* Switch or case structures.
+	* Functions
+	* File input and output.
+	* Classes
+- Students will be introduced to the fundamental of Object 0riented Programming (OOP) in more than one language.
+	Python, Java, and C++.
+- Students will use Python as the primary language to develop OOP skills.
+- Students will be assigned problems that model contemporary problems.
+- Students will understand OOP languages perform action and SQL stores, queries, and manipulates data.
+- Students will use MariaDB on Linux system to practice Structured Query Language (SQL) skills.
+- Students will learn entry level SQL commands to query existing databases.
+- Students will learn the entry level table creation commands.
+- Students will use PHPMyAdmin to assist in  learning SQL.
+YEAR 2
+- Year 2 students will repeat year 1 performance assessments if they need more practice.
+- Year 2 students will lead year 1 students in groups projects.
+- Students will extend OOP skills in Python and other languages.
+- Students will extend SQL skills.
 
 ********************************************************************************
 C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
@@ -245,7 +270,6 @@ YEAR 1
 - Students install RAM (Random Access Memory).
 - Students inStall operating systems.
 - Student will generate a bid for proposal spreadsheet for purchasing network equipment for a small business with less than 24 nodes with wireless capabilities including more than one wireless access point.  This bid will eventually include work stations and servers.
-
 - Students will assemble a list of parts to build a computer and publish the parts list on github.com
 
 YEAR 2
@@ -315,12 +339,33 @@ YEAR 2
 ********************************************************************************
 C18:	Mathematics, base conversions, logic gates and computer science mathematics.
 Performance Assessments: 
-
- Hands on labs to create vidual models of multiples of bytes: kilo, mega, giga, tera, peta, exa, zetta and yotta.  With kilo, mega and giga being the most important.
-7.	LAB: HOMEWORK.  tracert (DOS)  traceroute (BASH)
+YEAR 1
+- Students will convert  binary to decimal, binary to hexadecimal, decimal to binary, decimal to hexadecimal, hexadecimal to binary and hexadecimal to binary values.
+- Students will understand how decimal (dase 10), hexadecimal (base 16) and binary (base 2) numbers are used in computer programming.
+- Students will understand how binary numbers are used in IPV4 address.
+- Students will understand how hexadecimal values are using in IPV6 addresses.
+- Students will use Algebra, Trigonometry and Geometry when writing OOP code.
+- Students will use AND, OR, XOR, NOT, NAND, NOR and XNOR logic gates.
+- Students will practice simple Algebra, Geometry and Trigonometry  on paper and pencil as a review of Mathematics skills. (Mathematics courses are prerequisites for all computer science degrees at the college level.)
+YEAR 2
+- Year 2 students will repeat year 1 performance assessments for more practice.
+- Year 2 students will help teach mathematics skills to year 1 student
 ********************************************************************************
 C19: 	Introduction to electronics and micro-controllers (Arduino)
 Performance Assessments: 
+YEAR 1
+- Students will program an Arduino UNO/NANO using the Arduino IDE downloaded at arduino.cc
+- Students will understand that preogramming the Arduino uses the C programming language and the intent of this hands on activity is also intended as a fun way to the the C programming language.
+-  Students will program Adafruit NEO-Pixels (adafruit.com) to model an variety of computer science concepts inlcuding:
+	For and while loops, if conditions and variable manipulation.
+- Students will get input data to n Arduino using a infrared decoder and ultrasonic sensor and write code to show show differences in the output using the Serial Monitor or LED output.
+- Students will import C libraies into the Arduino IDE and use the code.
+- Students will work on a group Arduino project that combines multiple technogies.
+YEAR 2
+- Year 2 students will repeat year 1 performance assessments for more practice.
+-  
+
+
 ********************************************************************************
 C20: 	Culminating Small Group Project
 Performance Assessments: 
