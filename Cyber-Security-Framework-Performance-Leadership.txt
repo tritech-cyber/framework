@@ -7,18 +7,21 @@ C3: 	Security ethics, security levels, security threats and defensive security.
 C4: 	Linux installation, configuration, directory structure and Bash. Linux users and permissions
 C5:		Linux command line and introduction to BASH scripting. (BASH)
 C6:  	Linux server service installation and configuration. (Apache2, VSFTPD, Samba, and SSH)
-C7: 	HTML (Columbia Basin College course equivalency.  CS 114: HTML5  and CS 115:HTML5-Cascading Style Sheets
+C7: 	HTML 
+	(Columbia Basin College course equivalency.  CS 114: HTML5  and CS 115:HTML5-Cascading Style Sheets
 C8:		Cryptography, encryption, security keys and authentication.	
 C9:		GIT and Github.com basics.
 C10: 	Introduction to computer programming (Python, PHP, C, C++,  Java, and SQL) 
 C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
 C12:	Networking.
-		[Open System Interconnection (OSI) Model, hardware, wired, wireless, monitoring tools, and CISCO]
-C15:	Linux Vitalization.  Kernel Virtual Machine (KVM).
-C16:	Windows client installation and networking. (Virtual Machine and on harddrive)
-C17:	Mathematics, base conversions, logic gates and computer science mathematics.
-C18: 	Introduction to electronics and micro-controllers (Arduino)
-C19: 	Year 1 Culminating Small Group Project
+		(Open System Interconnection (OSI) Model, hardware, wired, wireless, monitoring tools, and CISCO)
+C13:	Linux Vitalization.  
+		Kernel Virtual Machine (KVM), VMWare, Hyper-V and Virtual Box.
+C14:	Microsoft 
+		Windows client installation and networking. (Virtual Machine and on harddrive)
+C15:	Mathematics, base conversions, logic gates and computer science mathematics.
+C16: 	Introduction to electronics and micro-controllers (Arduino)
+C17: 	Year 1 Culminating Small Group Project
 
 ADVANCED CONCEPTS
 A1:		Windows server installation and configuration 
@@ -252,36 +255,65 @@ YEAR 2
 
 
 ********************************************************************************
-C12:	Networking hardware and protocol. (Ethernet, wireless and OSI Model) 
-Performance Assessments:
-
+C12: Networking.
+		(Open System Interconnection (OSI) Model, hardware, wired, wireless, monitoring tools, and CISCO)
+YEAR 1
+- Students will be introduced to the OSI model.
+- Students will do an variety of hands on acclivities to learn the OSI model.
+- Students will be tested on the OSI model and contemporary protocols at each level.
+- Students will construct a start network with switches.
+- Students will add routers to a star network.
+- Students will make RJ45 Ethernet cables.
+- Students will make 568B punch down plug-ins.   
+- Students will add a Wireless Access Point (WAP) to a star network.
 - Students will install Wireshark on Linux and Microsoft systems.
 - Students will deploy simple Wireshark filters and save collected data.
 - Students will use Linux command line tools such as nmap, arp and netcat to collect network traffic.
-- Students will deploy networking monitoring scripts using CRONTAB.
-
-********************************************************************************
-C13:	Network monitoring tools (Wireshark, Linux command line tools)
-Performance Assessments:
-YEAR 1
-
-
+- Students will deploy networking monitoring scripts using Linux BASH. 
+- Students will use Cisco Packettracer to model a progression of networks.
+- Students will use Cisco Packettracer to create sub-netted networks. 
+- Students will be introduced to Cisco Command Line Interface (CLI)
 YEAR 2
-- Advanced wireshark
-– Watch video from Chappell University with respect to Wireshark and apply concepts from video. 
-– Students will document time spent with free on-line training with Wireshark at https://www.chappellu.com.	
-- Students will write BASH scipt to document network traffic in in log files.
-- Student will write Python script to monitor network traffic. Introductory.
-
+- Year 2 students will repeat year 1 performance assessments if they need more practice.
+- Students will refine Wireshark skills.
+- Students will assist year 1 students with network construction.
+- Students will refine Linux BASH networking skills.
+- Students will refine Pakcettracer skills.
+- Students will assist year 1 students wil Packettracer.
+- Students will refine Cisco CLI.
 ********************************************************************************
-C15:	CISCO Networking (Packertracer and introductory CLI)
+C13:	Linux Vitalization.  
+		Kernel Virtual Machine (KVM), VMWare, Hyper-V and Virtual Box.
 Performance Assessments: 
+YEAR 1
+- Students will install KVM and VMWare on Linux computers. (Debian 9 is preferred).
+- Students will install Virtual Box and VMWare on Microsoft Windows computers.
+- Students will deploy the following applications on Linux computers:
+	Apache2, Nginx, Samba, Docker, VSFTP, Python script and more.
+- Students will configure applications installed on Linux virtual images.
+- Students will configure the network interface using NAT and Bridge mode.
+- Students will observe system security options on Linux systems.
+- Microsoft Windows installation will be covered in section C14.
+YEAR 2
+- Year 2 students will repeat year 1 performance assessments if they need more practice.
+- Students will prepare virtual machine images for year 1 students to use and debug.
+- Student will manage virtual servers.  Covered in advanced skills.
 ********************************************************************************
-C16:	Linux Virtualization.  Kernel Virtual Machine (KVM).
-Performance Assessments: 
-********************************************************************************
-C17:	Windows client installation and networking. (Virtual Machine and on harddrive)
-Performance Assessments: 
+C14:	Microsoft 
+		Windows client installation and networking. 
+		(Bare metal and VM)
+YEAR 1
+- Students will install KVM and VMWare on Linux computers. (Debian 9 is preferred).
+- Students will install Virtual Box and VMWare on Microsoft Windows computers.
+- Students will deploy the following applications on Linux computers:
+	Apache2, Nginx, Samba, Docker, VSFTP, Python script and more.
+- Students will configure applications installed on Linux virtual images.
+- Students will configure the network interface using NAT and Bridge mode.
+- Students will observe system security options on Linux systems.
+- Microsoft Windows installation will be covered in section C14.
+YEAR 2
+- Year 2 students will repeat year 1 performance assessments if they need more practice.		
+		
 ********************************************************************************
 C18:	Mathematics, base conversions, logic gates and computer science mathematics.
 Performance Assessments: 
