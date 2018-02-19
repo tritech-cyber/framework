@@ -404,19 +404,27 @@ YEAR 2
 A5: 	Cryptography, encryption and standard security keys introduction.	
 Performance Assessments: 
 YEAR 2	
+- Students will develop an authentication web application using PHP or Python.
 *******************************************************************
 A4:		Advanced authentication.  Amazon Web Services
 		(https://www.awseducate.com/Registration)
 Performance Assessments: 
 YEAR 2
 *******************************************************************
-A4: 	Advanced Computer Programming (Python, PHP, C, C++,  Java, and SQL)
+A4: 	Advanced Computer Programming (Python, BASH, PHP and SQL)
 Performance Assessments: 
 YEAR 2
+- Students will complete as many Computer Science K-12 Learning Standards  Grade 9–10 / Level 3A and  Grade 11–12 as time and student skill level permits.  It is the goal of Tri-Tech Cyber Security to introduce topics to students who have never programmed before and introduce those skills at a rate students can manage. http://www.k12.wa.us/ComputerScience/LearningStandards.aspx
+- Students will increase skill in Object Oriented Programming using Python. 
+	Reference : https://docs.python.org/3/tutorial/classes.html
+- Students will develop an authentication web application using PHP or Python.
+
 *******************************************************************
 A5: 	Cryptography, encryption and standard security keys introduction.
 Performance Assessments: 
 YEAR 2
+Reference : https://developer.mozilla.org/en-US/docs/Archive/Security/Introduction_to_Public-Key_Cryptography
+
 *******************************************************************
 A7: 	Advanced projects:  Docker, Kubernetes, and Facebook CTF (Capture The Flag)
 Performance Assessments: 
