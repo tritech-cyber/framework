@@ -1,0 +1,88 @@
+3A	Grades 9–10
+3B	Grades 11–12 
+A	Algorithms and Programming 
+C	Computing Systems
+D	Data and Analysis
+I	Impacts of Computing
+N	Networks and the Internet
+1	Fostering an Inclusive Computing Culture 
+2	Collaborating 
+3	Recognizing and Defining Computational Problems 
+4	Developing and Using Abstractions 
+5	Creating Computational Artifacts 
+6	Testing and Refining 
+7	Communicating about Computing 
+
+9–10	Level 3A
+3A-A-2-1	Design and develop a software artifact working in a team. 
+3A-A-2-2	Demonstrate how diverse collaborating impacts the design and development of software products (e.g., discussing real-world examples of products that have been improved through having a diverse design team or reflecting on their own team's development experience). 
+3A-A-7-3	Compare and contrast various software licensing schemes (e.g., open source, freeware, commercial). 
+3A-A-5-4	Design, develop, and implement a computing artifact that responds to an event (e.g., robot that responds to a sensor, mobile app that responds to a text message, sprite that responds to a broadcast). 
+3A-A-5-5	Use user-centered research and design techniques (e.g., surveys, interviews) to create software solutions
+3A-A-5-6	Integrate grade-level appropriate mathematical techniques, concepts, and processes in the creation of computing artifacts. 
+3A-A-4-7	Understand the notion of hierarchy and abstraction in high-level languages, translation, instruction sets, and logic circuits. 
+3A-A-4-8	Deconstruct a complex problem into simpler parts using predefined constructs (e.g., functions and parameters and/or classes). 
+3A-A-4-9	Demonstrate the value of abstraction for managing problem complexity (e.g., using a list instead of discrete variables). 
+3A-A-3-10	Design algorithms using sequence, selection, and iteration. 
+3A-A-3-11	Explain and demonstrate how modeling and simulation can be used to explore natural phenomena (e.g., flocking behaviors, queueing, life cycles). 
+3A-A-6-12	Use a systematic approach and debugging tools to independently debug a program (e.g., setting breakpoints, inspecting variables with a debugger). 
+3A-C-7-13	Develop and apply criteria (e.g., power consumption, processing speed, storage space, battery life, cost, operating system) for evaluating a computer system for a given purpose (e.g., system specification needed to run a game, web browsing, graphic design or video editing). 
+3A-C-5-14	Create, extend, or modify existing programs to add new features and behaviors using different forms of inputs and outputs (e.g., inputs such as sensors, mouse clicks, data sets; outputs such as text, graphics, sounds). 
+3A-C-4-15	Demonstrate the role and interaction of a computer embedded within a physical system, such as a consumer electronic, biological system, or vehicle, by creating a diagram, model, simulation, or prototype.  
+3A-C-4-16	Describe the steps necessary for a computer to execute high compilation to machine language, interpretation, fetch-decode-execute https://www.cise.ufl.edu/~mssz/CompOrg/CDAintro.html. 
+3A-D-5-17	Create computational models that simulate real-world systems (e.g., ecosystems, epidemics, spread of ideas). 
+3A-D-4-18	Convert between binary, decimal, and hexadecimal representations of data (e.g., convert hexadecimal color codes to decimal percentages, ASCII/Unicode representation). 
+3A-D-4-19	Analyze the representation tradeoffs among various forms of digital information (e.g., lossy versus lossless compression, encrypted vs. unencrypted, various image representations). 
+3A-D-3-20	Discuss techniques used to store, process, and retrieve different amounts of information (e.g., files, databases, data warehouses). 
+3A-D-3-21	Apply basic techniques for locating and collecting small- and large-scale data sets (e.g., creating and distributing user surveys, accessing real-world data sets). 
+3A-I-2-22	Debate the social and economic implications associated with ethical and unethical computing practices (e.g., intellectual property rights, hacktivism, software piracy, diesel emissions testing scandal, new computers shipped with malware).  
+3A-I-7-23	Compare and contrast information access and distribution rights.  
+3A-I-7-24	Discuss implications of the collection and large-scale analysis of information about individuals (e.g., how businesses, social media, and government collect and use personal data). 
+3A-I-7-25	Describe how computation shares features with art and music by translating human intention into an artifact.   
+3A-I-1-26	Compare and debate the positive and negative impacts of computing on behavior and culture (e.g., evolution from hitchhiking to ridesharing apps, online accommodation rental services). 
+3A-I-1-27	Demonstrate how computing enables new forms of experience, expression, communication, and collaborating. 
+3A-I-1-28	Explain the impact of the digital divide (i.e., uneven access to computing, computing education, and interfaces) on access to critical information.  
+3A-I-6-29	Redesign user interfaces (e.g., webpages, mobile applications, animations) to be more inclusive, accessible, and minimizing the impact of the designer's inherent bias.
+3A-N-7-30	Describe key protocols and underlying processes of Internet-based services (e.g., http/https and SMTP/IMAP, routing protocols).  
+3A-N-4-31	Illustrate the basic components of computer networks (e.g., draw logical and topological diagrams of networks including routers, switches, servers, and end user devices; create model with string and paper).  
+3A-N-1-32	Compare and contrast multiple viewpoints on cybersecurity (e.g., from the perspective of security experts, privacy advocates, the government).
+3A-N-3-33	Explain the principles of information security (confidentiality, integrity, availability) and authentication techniques.
+3A-N-3-34	Use simple encryption and decryption algorithms to transmit/receive an encrypted message.
+3A-N-6-35	Identify digital and physical strategies to secure networks and discuss the tradeoffs between ease of access and need for security.
+ 
+ 11–12	Level 3B
+3B-A-2-1 	Use version control systems, integrated development environments (IDEs), and collaborating tools and practices (code documentation) in a group software project. 
+3B-A-2-2 	Demonstrate software life cycle processes (e.g., spiral, waterfall) by participating on software project teams (e.g., community service project with real-world clients). 
+3B-A-7-3 	Modify an existing program to add additional functionality and discuss intended and unintended implications (e.g., breaking other functionality).  
+3B-A-7-4 	Explain security issues that might lead to compromised computer programs (e.g., circular references, ambiguous program calls, lack of error checking and field size checking).  
+3B-A-7-5 	Compare a variety of programming languages and identify features that make them useful for solving different types of problems and developing different kinds of systems (e.g., declarative, logic, parallel, functional, compiled, interpreted, real-time).  
+3B-A-7-6 	Describe how artificial intelligence drives many software and physical systems (e.g., autonomous robots, computer vision, pattern recognition, text analysis). 
+3B-A-5-7 	Decompose a problem by creating new data types, functions, or classes. 
+3B-A-5-8 	Demonstrate code reuse by creating programming solutions using libraries and APIs (e.g., graphics libraries, maps API). 
+3B-A-5-9 	Implement an AI algorithm to play a game against a human opponent or solve a problem. 
+3B-A-5-10 	Develop programs for multiple computing platforms (e.g., computer desktop, web, mobile). 
+3B-A-4-11 	Critically analyze classic algorithms (e.g., sorting, searching) and use in different contexts, adapting as appropriate. 
+3B-A-4-12 	Evaluate algorithms (e.g., sorting, searching) in terms of their efficiency, correctness, and clarity. 
+3B-A-4-13 	Compare and contrast fundamental data structures and their uses (e.g., lists, maps, arrays, stacks, queues, trees, graphs). 
+3B-A-4-14 	Discuss issues that arise when breaking large-scale problems down into parts that must be processed simultaneously on separate systems (e.g., cloud computing, parallelization, concurrency).
+3B-A-3-15 	Provide examples of computationally solvable problems and difficult-to-solve problems. 
+3B-A-3-16 	Explain the value of heuristic algorithms (discovery methods) to approximating solutions for difficult-to-solve computational problems.  
+3B-A-3-17 	Decompose a large-scale computational problem by identifying generalizable patterns and applying them in a solution. 
+3B-A-3-18 	Illustrate the flow of execution of a recursive algorithm. 
+3B-A-3-19 	Describe how parallel processing can be used to solve large problems (e.g., SETI at Home, FoldIt). 
+3B-A-3-20 	Develop and use a series of test cases to verify that a program performs according to its design specifications.  
+3B-A-6-21 	Evaluate key qualities of a program (e.g., correctness, usability, readability, efficiency, portability, scalability) through a process such as a code review. 
+3B-C-7-22 	Explain the role of operating systems (e.g., how programs are stored in memory, how data is organized/retrieved, how processes are managed and multi-tasked).  
+3B-C-7-23 	Identify the functionality of various categories of hardware components and communication between them (e.g., physical layers, logic gates, chips, input and output devices). 
+3B-D-4-24 	Use data analysis to identify significant patterns in complex systems (e.g., take existing data sets and make sense of them).  
+3B-D-4-25 	Discuss how data sequences (e.g., binary, hexadecimal, octal) can be interpreted in a variety of forms (e.g., instructions, numbers, text, sound, image). 
+3B-D-4-26 	Evaluate the ability of models and simulations to formulate, refine, and test hypotheses.  
+3B-D-4-27 	Identify mathematical and computational patterns through modeling and simulation (e.g., regression, Runge-Kutta, queueing theory, discrete event simulation).  
+3B-D-1-28 	Use various data collection techniques for different types of problems (e.g., mobile device, GPS, user surveys, embedded system sensors, open data sets, social media data sets). 
+3B-D-3-29 	Explore security policies by implementing and comparing encryption and authentication strategies (e.g., secure coding, safeguarding keys). 
+3B-I-7-30 	Develop criteria to evaluate the beneficial and harmful effects of computing innovations on people and society.
+3B-I-5-31 	Select, observe, and contribute to global Collaborating in the development of a computational artifact (e.g., contribute the resolution of a bug in an open-source project hosted on GitHub).
+3B-I-1-32 	Design and implement a study that evaluates or predicts how computation has revolutionized an aspect of our culture and how it might evolve (e.g., education, healthcare, art/entertainment, energy).
+3B-I-1-33	Debate laws and regulations that impact the development and use of software.
+3B-I-1-34 	Evaluate the impact of equity, access, and influence on the distribution of computing resources in a global society. 
+3B-N-4-35	Simulate and discuss the issues (e.g., bandwidth, load, delay, topology) that impact network functionality (e.g., use free network simulators).

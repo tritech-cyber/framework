@@ -25,15 +25,15 @@ C17: 	Year 1 Culminating Small Group Project
 
 ADVANCED CONCEPTS
 A1:		Windows server installation and configuration 
-A2: 	TCP/IP IPV4 and IPV6 DHCP
+A2: 	Advanced networking. 
+		Wireless networking setup. TCP/IP IPV4 and IPV6 DHCP
 A3: 	Advanced Linux server configuration.
-A3: 	Windows server installation and configuration 
 		NS, DHCP, HTTPD FTP, SQL, MAIL.
 A4:		Advanced authentication.  Amazon Web Services
 		(https://www.awseducate.com/Registration)
 A4: 	Advanced Computer Programming (Python, PHP, C, C++,  Java, and SQL)
 A5: 	Cryptography, encryption and standard security keys introduction.
-A6:		Wireless networking setup. 
+
 A7: 	Advanced projects:  Docker, Kubernetes, and Facebook CTF (Capture The Flag)
 A8: 	USCyberPatriot team competition. https://www.uscyberpatriot.org/
 A9:		AWS (Amazon Web Services) Linux configuration and security rules.
@@ -247,6 +247,7 @@ YEAR 1
 	* Functions
 	* File input and output.
 	* Classes
+- Students will complete as many Computer Science K-12 Learning Standards  Grade 9–10 / Level 3A and  Grade 11–12 as time and student skill level permits.  It is the goal of Tri-Tech Cyber Security to introduce topics to students who have never programmed before and introduce those skills at a rate students can manage. http://www.k12.wa.us/ComputerScience/LearningStandards.aspx
 - Students will be introduced to the fundamental of Object 0riented Programming (OOP) in more than one language.
 	Python, Java, and C++.
 - Students will use Python as the primary language to develop OOP skills.
@@ -261,6 +262,7 @@ YEAR 2
 - Year 2 students will lead year 1 students in groups projects.
 - Students will extend OOP skills in Python and other languages.
 - Students will extend SQL skills.
+- Students will complete as many Computer Science K-12 Learning Standards  Grade 9–10 / Level 3A and  Grade 11–12 as time and student skill level permits. http://www.k12.wa.us/ComputerScience/LearningStandards.aspx
 
 ********************************************************************************
 C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
@@ -283,6 +285,7 @@ C12: Networking.
 		(Open System Interconnection (OSI) Model, hardware, wired, wireless, monitoring tools, and CISCO)
 YEAR 1
 - Students will be introduced to the OSI model.
+- Students will understand how the four decimal octets are used to create TCP/IP IPV4 addresses.
 - Students will do an variety of hands on acclivities to learn the OSI model.
 - Students will be tested on the OSI model and contemporary protocols at each level.
 - Students will construct a start network with switches.
@@ -358,27 +361,79 @@ YEAR 1
 - Students will understand that preogramming the Arduino uses the C programming language and the intent of this hands on activity is also intended as a fun way to the the C programming language.
 -  Students will program Adafruit NEO-Pixels (adafruit.com) to model an variety of computer science concepts inlcuding:
 	For and while loops, if conditions and variable manipulation.
+- Students will build a circuit with a breadboard, resistor and Light Editing Diode (LED) and write code to control the the LED.
 - Students will get input data to n Arduino using a infrared decoder and ultrasonic sensor and write code to show show differences in the output using the Serial Monitor or LED output.
 - Students will import C libraies into the Arduino IDE and use the code.
-- Students will work on a group Arduino project that combines multiple technogies.
+- Students will work on a group Arduino project that combines multiple technologies.
 YEAR 2
 - Year 2 students will repeat year 1 performance assessments for more practice.
--  
-
+- Year 2 students will help year 1 student set up Arduino 
+- Students will refine Arduino code and develop unique inidividal projects. 
+- Students will have to two Arduino communicate with eachother using Radio Frequency (RF).
+	NRF24L01+ 2.4GHz Wireless RF Transceiver 
 
 ********************************************************************************
 C20: 	Culminating Small Group Project
 Performance Assessments: 
+YEAR 1
+- Students will work on a two week approved project of their choice. This project must be associated with Cyber Security and skills we have worked on in class.
+- Students Culminating Small Group Project will be graded with a rubric presented to them prior to the project proposal.
+YEAR 2
+- Year 2 students may work in a year 1 group.
 
 
 
 
+*******************************************************************
+ADVANCED CONCEPTS
+A1:		Windows server installation and configuration 
+Performance Assessments: 
+YEAR 2
 
-
-
-
-
+*******************************************************************
+A2: 	Advanced networking. 
+		Wireless networking setup. TCP/IP IPV4 and IPV6 DHCP
+Performance Assessments: 
+YEAR 2
+*******************************************************************
+A3: 	Advanced Linux server configuration.
+		NS, DHCP, HTTPD FTP, SQL, MAIL.
+Performance Assessments: 
+YEAR 2
+*******************************************************************
+A5: 	Cryptography, encryption and standard security keys introduction.	
+Performance Assessments: 
+YEAR 2	
+*******************************************************************
+A4:		Advanced authentication.  Amazon Web Services
+		(https://www.awseducate.com/Registration)
+Performance Assessments: 
+YEAR 2
+*******************************************************************
+A4: 	Advanced Computer Programming (Python, PHP, C, C++,  Java, and SQL)
+Performance Assessments: 
+YEAR 2
+*******************************************************************
+A5: 	Cryptography, encryption and standard security keys introduction.
+Performance Assessments: 
+YEAR 2
+*******************************************************************
+A7: 	Advanced projects:  Docker, Kubernetes, and Facebook CTF (Capture The Flag)
+Performance Assessments: 
+YEAR 2
+*******************************************************************
+A8: 	USCyberPatriot team competition. https://www.uscyberpatriot.org/
+Performance Assessments: 
+YEAR 2
+*******************************************************************
+A9:		AWS (Amazon Web Services) Linux configuration and security rules.
+Performance Assessments: 
+YEAR 2
+*******************************************************************
+A10: 	Year 2 Culminating Individual or Small Group Project
 Notes:
+Performance Assessments: 
+YEAR 2
 *******************************************************************
 COMPUTER SCIENCE STANDARDS
 3A	Grades 9–10
