@@ -194,13 +194,17 @@ YEAR 2
 ********************************************************************************
 C7: 	HTML5  
 Performance Assessments:
-YEAR 1 - CS 114: HTML5 (Columbia Basin College course equivalency.)
+YEAR 1 - CS 114: HTML5 (Columbia Basin College (CBC) course equivalency.)
 	This course provides students with the skills needed to create web pages using HTML5 elements and attributes. Students learn how to include text, pictures, and hypertext links, as well as tables, forms, and frames. They also learn how to create and manipulate image maps and animated GIFs. In addition, students are exposed to the critical design concepts including: visual design, user interface design, designing for accessibility, and designing technically correct (valid) documents.
 	(http://www.columbiabasin.edu/apps/oca/cat/crs_info.aspx?id=CS+++114)
+	Assignments located at: htttp://tritechsc.ksd.org/cyber/
+- Students will complete all HTML year 1 assignments and earn 85% or better to receive CBC CS-114 5 credits.
 
 YEAR 2 - CS 115:HTML5-Cascading Style Sheets (Columbia Basin College course equivalency.)
 	Students learn how to use Cascading Style Sheets to control the appearance and layout of HTML and XML documents; how to control text properties such as typeface, size, etc., and box properties such as width, margins, etc. to control layout; to use media queries to build pages that are responsive and mobile friendly; and how to use CSS3 special effects to do things like controlling transparency, rotating objects, and adding glows and shadows. 
 	(http://www.columbiabasin.edu/apps/oca/cat/crs_info.aspx?id=CS+++115) 
+	Assignments located at: htttp://tritechsc.ksd.org/cyber/
+- Students will complete all HTML year 2 assignments and earn 85% or better to receive CBC CS-115 5 credits.
 ********************************************************************************
 C8:		Cryptography, encryption, security keys and authentication.
 		 Logic Gates and RSA Keys. 
@@ -381,66 +385,120 @@ YEAR 1
 YEAR 2
 - Year 2 students may work in a year 1 group.
 
-
-
-
 *******************************************************************
 ADVANCED CONCEPTS
 A1:		Windows server installation and configuration 
 Performance Assessments: 
 YEAR 2
-
+- Students will install a Microsoft Imagine iso as a groups.
+- Students will configure Windows server 2016 (or newer) to server as a file server.
+- Students will research and cinfigure a Windows Deployment Server (WDS) to server as an installation point.
+	WDS (Domain Controller, DHCP, and File Server)
+ISO files follow ISO-9660, the ISO in which stands for International Standards Organization
 *******************************************************************
 A2: 	Advanced networking. 
 		Wireless networking setup. TCP/IP IPV4 and IPV6 DHCP
 Performance Assessments: 
 YEAR 2
+- Students will lead maintenance physical network on the Cyber Security computer lab.
+- Students will use the Cisco routers (2811) and Cisco switchs (2960) to sub-net a network.
+- Student will connect to Cisco routers and switches using Mincom (Linux) and Putty(Windows).
+- Students will use Cisco Command Line Interface (CLI) to configure bare metal routers and switches.
 *******************************************************************
 A3: 	Advanced Linux server configuration.
-		NS, DHCP, HTTPD FTP, SQL, MAIL.
+		DNS, DHCP, HTTPS, FTP, SQL, MAIL.
 Performance Assessments: 
 YEAR 2
+- Students will install and configure the following on a VM prior to bare metal installation:	
+	Dnsmasq, DHCP server, Mail server, MariaDB (SQL), and VSFTP.
+- Students will work together to configure an HTTPS headless Apache2 server.  VM and bare metal.
+- Year 2 students will work together to install and configure on a headless bare metal Linux box:
+	Dnsmasq, DHCP server, Mail server, MariaDB (SQL), and VSFTP.
+- Students will configure DNSmasq with a *.ioe domain or an instructor approved top level domain not used in the real Internet.
 *******************************************************************
-A5: 	Cryptography, encryption and standard security keys introduction.	
-Performance Assessments: 
-YEAR 2	
-- Students will develop an authentication web application using PHP or Python.
-*******************************************************************
-A4:		Advanced authentication.  Amazon Web Services
+A4:		Advanced authentication. 
+		Amazon Web Services (AWS)
 		(https://www.awseducate.com/Registration)
 Performance Assessments: 
 YEAR 2
+- Students will perform advanced server deployments using AWS Education services.
+- Stedents will deploy a PHP, MariaDB, Aapache authenticate application on a headless server in the Cyber Security lab then on an AWS server.
 *******************************************************************
-A4: 	Advanced Computer Programming (Python, BASH, PHP and SQL)
+A5: 	Advanced Computer Programming (Python, BASH, PHP and SQL)
 Performance Assessments: 
 YEAR 2
 - Students will complete as many Computer Science K-12 Learning Standards  Grade 9–10 / Level 3A and  Grade 11–12 as time and student skill level permits.  It is the goal of Tri-Tech Cyber Security to introduce topics to students who have never programmed before and introduce those skills at a rate students can manage. http://www.k12.wa.us/ComputerScience/LearningStandards.aspx
-- Students will increase skill in Object Oriented Programming using Python. 
+- Students will increase skill in Object Oriented Programming (OOP) using Python. 
 	Reference : https://docs.python.org/3/tutorial/classes.html
+- Students will write simple OOP Java and C++ to increase their knowledge of OOP stuctures.
 - Students will develop an authentication web application using PHP or Python.
+- Student will develop BASH script that will perform Linux system and networking tasks.
+	Reference: https://linuxconfig.org/
+
 
 *******************************************************************
-A5: 	Cryptography, encryption and standard security keys introduction.
+A6: 	Cryptography, encryption and standard security keys introduction.
 Performance Assessments: 
 YEAR 2
+- Students will develop an authentication web application using PHP or Python.
+- Students will set up a Linux server that year 1 students can access with security keys.
+- Students configure an Apache2 HTTPS server with SSL keys.
+- Students will organize and teach a lesson on encryption to year 2 students.
+- Students will delete .ssh keys in a Linux system . Edit for delete known_hosts.
+- Students will use a key to login to a remote Linux system.
+- Students will complete the Khan Academy RSA Encryption Module 
+- Students will work independently to research security keys.
+Reference: https://www.khanacademy.org/computing/computer-science/cryptography#modern-crypt
+Additional references: 
 Reference : https://developer.mozilla.org/en-US/docs/Archive/Security/Introduction_to_Public-Key_Cryptography
-
+Reference : https://help.github.com/articles/generating-a-new-gpg-key/
+Reference : http://tritechsc.ksd.org/documentation/linux/
+Reference : https://kb.iu.edu/d/aews (University of Indiana)
+Reference : Youtube (HAK5 RSA Keys)
 *******************************************************************
-A7: 	Advanced projects:  Docker, Kubernetes, and Facebook CTF (Capture The Flag)
+A7: 	Advanced projects:  Docker, Kubernetes, and FBCTF (Facebook Capture The Flag)
 Performance Assessments: 
 YEAR 2
+- Students will install and configure Docker Community Edition for Windows, Linux and Mac OSX.
+	Reference: https://www.docker.com/community-edition
+- Students will deploy a Nginx Docker container.
+- Students will install Kubernetes on a server in our Local Area Network (LAN).
+- Students will deploy a Kubernetes instance.
+	Reference: https://kubernetes.io/
+- Students will install Facebook CTF (Capture The Flag  on our Local Area Network (LAN)
+- Students will create CTF Cyber Security problems to install on FBCTF.
+	Reference: https://github.com/facebook/fbctf
+	Reference: http://ctfs.github.io/resources/
+	Reference: https://github.com/NeverLAN-CTF
+	Reference: https://captf.com/  (This link does not have a public ssl certificate) 
+	Reference: https://github.com/tritech-cyber/ctf  (Tri-Tech-Cyber is managed by craig.coleman@ksd.org) 
+- Students will present progress of Advanced projects on a weekly basis.)
+	
 *******************************************************************
 A8: 	USCyberPatriot team competition. https://www.uscyberpatriot.org/
 Performance Assessments: 
 YEAR 2
+- Students will be assigned to a US Cyber Patriot team.
+- Students will prepare for the US Cyber Patriot competition 
+- Students will participate in the US Cyber Patriot National competition at Tri-Tech Skills Center in the Cyber Lab.
+- Students will diagnose problems with Windows and Linux virtual machines.
+- Students will use Cisco Packettracer to solve networking problems.
+- Studemnts will have an opportunity to study content form Cisco Network Academy by being assigned to a NetAcad.com account associated with US Cyber Patriot.
+Reference:  https://www.netacad.com/
 *******************************************************************
 A9:		AWS (Amazon Web Services) Linux configuration and security rules.
 Performance Assessments: 
 YEAR 2
+- Students will enroll in Amazon Web Services (AWS) Educate https://www.awseducate.com/Registration
+- Students will study content provided by AWS Educate
+- Students qill be provided with an AWS instance (VM) and a name.pem key do ssh into an AWS instance.
+- Students will set up services and user accounts on an AWS instance.
 *******************************************************************
 A10: 	Year 2 Culminating Individual or Small Group Project
-Notes:
 Performance Assessments: 
+- Students will work on a two week approved project of their choice. This project must be associated with Cyber Security and skills we have worked on in class.
+- Students Culminating Small Group Project will be graded with a rubric presented to them prior to the project proposal.
+
 YEAR 2
 *******************************************************************
 COMPUTER SCIENCE STANDARDS
