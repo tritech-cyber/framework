@@ -251,6 +251,7 @@ YEAR 1
 	* Functions
 	* File input and output.
 	* Classes
+-- Students will work on a group Python graphics project where each person contributes a design to a overall graphic or sequence of graphic designs.
 - Students will complete as many Computer Science K-12 Learning Standards  Grade 9–10 / Level 3A and  Grade 11–12 as time and student skill level permits.  It is the goal of Tri-Tech Cyber Security to introduce topics to students who have never programmed before and introduce those skills at a rate students can manage. http://www.k12.wa.us/ComputerScience/LearningStandards.aspx
 - Students will be introduced to the fundamental of Object 0riented Programming (OOP) in more than one language.
 	Python, Java, and C++.
@@ -520,8 +521,3 @@ N	Networks and the Internet
 
 
 
-Google Apps For Education 
-Git Hub
-Amazon Services
-US CyberPatriot
-Docker Community Edition for AWS
