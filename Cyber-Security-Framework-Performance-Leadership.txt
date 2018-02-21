@@ -2,17 +2,20 @@ CYBER SECURITY FRAMEWORK CONCEPTS
 
 CORE CONCEPTS
 C1: 	Safety
-C2: 	Career planning (Tri-Tech Portfolio)
+C2: 	Career planning 
+		(Tri-Tech Portfolio)
 C3: 	Security ethics, security levels, security threats and defensive security.  
 C4: 	Linux installation, configuration, directory structure and Bash. Linux users and permissions
 C5:		Linux command line and introduction to BASH scripting. (BASH)
 C6:  	Linux server service installation and configuration. (Apache2, VSFTPD, Samba, and SSH)
 C7: 	HTML 
 		(Columbia Basin College course equivalency.  CS 114: HTML5  and CS 115:HTML5-Cascading Style Sheets
-C8:		Cryptography, encryption, security keys and authentication.	
+C8:		Cryptography, encryption, security keys and authentication introduction.
 C9:		GIT and Github.com basics.
-C10: 	Introduction to computer programming (Python, PHP, C, C++,  Java, and SQL) 
-C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
+C10: 	Introduction to computer programming 
+		(Python, PHP, C, C++,  Java, and SQL) 
+C11: 	Computer basics 
+		(Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
 C12:	Networking.
 		(Open System Interconnection (OSI) Model, hardware, wired, wireless, monitoring tools, and CISCO)
 C13:	Linux Vitalization.  
@@ -21,7 +24,9 @@ C14:	Microsoft
 		Windows client installation and networking. (Virtual Machine and on harddrive)
 C15:	Mathematics, base conversions, logic gates and computer science mathematics.
 C16: 	Introduction to electronics and micro-controllers (Arduino)
-C17: 	Year 1 Culminating Small Group Project
+C17: 	Year 1 Projects
+		CTF
+		
 
 ADVANCED CONCEPTS
 A1:		Windows server installation and configuration 
@@ -29,15 +34,17 @@ A2: 	Advanced networking.
 		Wireless networking setup. TCP/IP IPV4 and IPV6 DHCP
 A3: 	Advanced Linux server configuration.
 		NS, DHCP, HTTPD FTP, SQL, MAIL.
-A4:		Advanced authentication.  Amazon Web Services
+A4:		Advanced authentication. 
+		Amazon Web Services
 		(https://www.awseducate.com/Registration)
-A4: 	Advanced Computer Programming (Python, PHP, C, C++,  Java, and SQL)
-A5: 	Cryptography, encryption and standard security keys introduction.
-
-A7: 	Advanced projects:  Docker, Kubernetes, and Facebook CTF (Capture The Flag)
-A8: 	USCyberPatriot team competition. https://www.uscyberpatriot.org/
-A9:		AWS (Amazon Web Services) Linux configuration and security rules.
-A10: 	Year 2 Culminating Individual or Small Group Project
+A5: 	Advanced Computer Programming (Python, PHP, C, C++,  Java, and SQL)
+A6: 	Cryptography, encryption and standard security keys advanced.
+A7: 	USCyberPatriot team competition. https://www.uscyberpatriot.org/
+A8:		AWS (Amazon Web Services) Linux configuration and security rules.
+A9: 	Year 2 Projects
+		CTF
+		Individual or group project.
+		Docker, Kubernetes, and Facebook CTF (Capture The Flag)
 
 ********************************************************************************
 C1: 	Safety
@@ -206,7 +213,7 @@ YEAR 2 - CS 115:HTML5-Cascading Style Sheets (Columbia Basin College course equi
 	Assignments located at: htttp://tritechsc.ksd.org/cyber/
 - Students will complete all HTML year 2 assignments and earn 85% or better to receive CBC CS-115 5 credits.
 ********************************************************************************
-C8:		Cryptography, encryption, security keys and authentication.
+C8:		Cryptography, encryption, security keys and authentication introduction.
 		 Logic Gates and RSA Keys. 
 Performance Assessments:
 YEAR 1
@@ -219,10 +226,8 @@ YEAR 1
 
 YEAR 2
 - Year 2 students will repeat year 1 performance assessments if they need more practice.
-- Students will lead encryption coding group projects.
-- Students will use PHP to encrypt login sessions.
-- Students will configure an OAUTH2 service using PHP. 
-- Students will assist year 1 students with Microsoft imagine accounts.
+- Refer to Cryptography, encryption, security keys and authentication advanced.
+
 ********************************************************************************		
 C9:		GIT and Github.com basics.
 Performance Assessments:
@@ -438,9 +443,13 @@ YEAR 2
 
 
 *******************************************************************
-A6: 	Cryptography, encryption and standard security keys introduction.
+A6: 	Cryptography, encryption and standard security keys advanced.
 Performance Assessments: 
 YEAR 2
+- Year 2 students will repeat year 1 performance assessments if they need more practice.
+- Students will lead encryption coding group projects.
+- Students will use PHP to encrypt login sessions.
+- Students will configure an OAUTH2 service using PHP. 
 - Students will develop an authentication web application using PHP or Python.
 - Students will set up a Linux server that year 1 students can access with security keys.
 - Students configure an Apache2 HTTPS server with SSL keys.
