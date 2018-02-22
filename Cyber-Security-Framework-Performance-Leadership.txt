@@ -51,14 +51,39 @@ C1: 	Safety
 Performance Assessments: 
 YEAR 1
 - Students will complete the safety course and assessment with a focus on eye safety, electricity safety, hand tool safety and general lifting safety.
-- Teacher lecture
-- Teacher demonstration
-- Read Text/Manual
+- Students will listen to teacher lecture and demonstration on safety.
+- Students will read Lab Safety Guidelines. Text/Manual
 - Student guided practice lifting
+- Students will make Ethernet cable with RJ45 modular jacks.
+- Students will create an Ethernet network with 568B punch-down jacks. (CAT 5e)
 - Students are assessed with a rubric and on-line test
+- Students will complete a hands on soldering safety assessment observed by teacher.
+- Students will complete hands on multi-tester lab to check voltage, resistance and continuity.
 YEAR 2
 - Students demonstrate use of hand tools for use with RJ45 and 568B punch down.
 - Students present safety guidelines to year 1 students.
+###############################################################################
+C1: 	Safety
+Competencies
+C-1.1	Know location of first aid kit.
+C-1.2	Know procedure for eye wash.
+C-1.3	Know procedure for cut washing.
+C-1.4	Know procedure for testing VDC (Voltage Direct Current) and VAC (Voltage Alternating Current) using muti-testers and simple voltage testers.
+C-1.5	Know location of fire extinguisher.
+C-1.6	Know location of fire alarm.
+C-1.7	Know location of emergency exit.
+C-1.8	Understand and practice safe soldering technique.
+C-1.9	Understand and practice safe hand tool use.
+C-1.10	Understand and practice simple power tool use.  (Drills and screw guns)
+C-1.11	Students will have documentation on file with the instructor that demonstrates they have had safety training.
+C-1.12	Illustrate First Aid procedures for potential injuries and other health concerns in the occupational area
+C-1.13	Describe the importance of emergency preparedness and an emergency action plan
+C-1.14	Illustrate procedures used to handle emergency situations and accidents, including identification, reporting, response, evacuation plans, and follow-up procedures
+C-1.15	Identify practices used to avoid accidents
+C-1.16	Identify and describe fire protection, precautions and response procedures
+C-1.17	Discuss the role of the individual and the company/organization in ensuring workplace safety
+C-1.18	Discuss ways to identify and prevent workplace/school violence
+
 ********************************************************************************
 C2: 	Career planning (Tri-Tech Portfolio)
 Performance Assessments:
@@ -109,6 +134,9 @@ Contributes to the learning environment by consistent attendance
 - Students use their portfolio as an example to first year students.
 - Students will write an APA style research paper that focuses on career exploration. Students will write another paper different than the year 1 paper.
 - Students have an opportunity to job shadow.
+###############################################################################
+
+Competencies: 
 
 ********************************************************************************
 C3: 	Security ethics, security levels, security threats and defensive security. 
@@ -130,7 +158,9 @@ YEAR 2
 - Students will model use of github with year 1 students.
 - Students will manage github group projects.
 - Students will manage a remote Linux and Windows server and deploy security measures.
+###############################################################################
 
+Competencies: 
 ********************************************************************************
 C4: 	Linux installation, configuration, directory structure and Bash. Linux users and permissions
 Performance Assessments: 
@@ -159,7 +189,11 @@ YEAR 2
 	File or direcotry 	User	Group  	Other   
 	d 					rwx 	rwx 	rxw		
 	Examples: 755 for a directory is: drwx r-x r-x
+###############################################################################
+
+Competencies: 
 ********************************************************************************
+
 C5:		Linux command line and introduction to BASH scripting. (BASH = Bourne Again SHell)
 Performance Assessments:
 YEAR 1
@@ -177,7 +211,9 @@ YEAR 2
 - Students use BASH on a remote server.
 - Students will share and explain BASH scripts to year 1 students.
 - Students will refine and improve their github.com BASH repository.
+###############################################################################
 
+Competencies: 
 
 ********************************************************************************
 C6:  	Linux server service installation and configuration. (Apache2, VSFTPD, Samba, and SSH)
@@ -195,9 +231,9 @@ YEAR 2
 	APACHE2, NGINX, VSFTPD, SAMBA, SSH AND LANGUAGE BASED SERVICES SUCH AS NODEJS AND PYTHON WEB SERVERS.
 - Students will refine Linux server security.
 - Student will propagate custom web server logs.
+###############################################################################
 
-
-YEAR 2
+Competencies: 
 ********************************************************************************
 C7: 	HTML5  
 Performance Assessments:
@@ -212,6 +248,9 @@ YEAR 2 - CS 115:HTML5-Cascading Style Sheets (Columbia Basin College course equi
 	(http://www.columbiabasin.edu/apps/oca/cat/crs_info.aspx?id=CS+++115) 
 	Assignments located at: htttp://tritechsc.ksd.org/cyber/
 - Students will complete all HTML year 2 assignments and earn 85% or better to receive CBC CS-115 5 credits.
+###############################################################################
+
+Competencies: 
 ********************************************************************************
 C8:		Cryptography, encryption, security keys and authentication introduction.
 		 Logic Gates and RSA Keys. 
@@ -227,7 +266,9 @@ YEAR 1
 YEAR 2
 - Year 2 students will repeat year 1 performance assessments if they need more practice.
 - Refer to Cryptography, encryption, security keys and authentication advanced.
+###############################################################################
 
+Competencies: 
 ********************************************************************************		
 C9:		GIT and Github.com basics.
 Performance Assessments:
@@ -241,7 +282,9 @@ YEAR 2
 - Year 2 students will repeat year 1 performance assessments if they need more practice.
 - Students will refine git command line skills.
 - Students will lead project teams developing code repositories.
+###############################################################################
 
+Competencies: 
 ********************************************************************************
 C10: 	Introduction to computer programming (Python, BASH, PHP, C, C++, Java, Javascript and SQL) 
 Performance Assessments:
@@ -273,7 +316,9 @@ YEAR 2
 - Students will extend OOP skills in Python and other languages.
 - Students will extend SQL skills.
 - Students will complete as many Computer Science K-12 Learning Standards  Grade 9–10 / Level 3A and  Grade 11–12 as time and student skill level permits. http://www.k12.wa.us/ComputerScience/LearningStandards.aspx
+###############################################################################
 
+Competencies: 
 ********************************************************************************
 C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
 Performance Assessments:
@@ -288,7 +333,9 @@ YEAR 2
 - Year 2 students will repeat year 1 performance assessments if they need more practice.
 - Students help year 1 students with computer basics and RAM installation.
 - Students will assist in repairing computers for the Tri-Tech Computer Donation program.
+###############################################################################
 
+Competencies: 
 
 ********************************************************************************
 C12: Networking.
@@ -318,6 +365,9 @@ YEAR 2
 - Students will refine Pakcettracer skills.
 - Students will assist year 1 students wil Packettracer.
 - Students will refine Cisco CLI.
+###############################################################################
+
+Competencies: 
 ********************************************************************************
 C13:	Linux Vitalization.  
 		Kernel Virtual Machine (KVM), VMWare, Hyper-V and Virtual Box.
@@ -335,6 +385,9 @@ YEAR 2
 - Year 2 students will repeat year 1 performance assessments if they need more practice.
 - Students will prepare virtual machine images for year 1 students to use and debug.
 - Student will manage virtual servers.  Covered in advanced skills.
+###############################################################################
+
+Competencies: 
 ********************************************************************************
 C14:	Microsoft 
 		Windows client installation and networking. 
@@ -348,7 +401,9 @@ YEAR 1
 YEAR 2
 - Year 2 students will repeat year 1 performance assessments if they need more practice.
 - Students will extend their knowledge of MMC.
-		
+###############################################################################
+
+Competencies: 
 ********************************************************************************
 C18:	Mathematics, base conversions, logic gates and computer science mathematics.
 Performance Assessments: 
@@ -363,6 +418,9 @@ YEAR 1
 YEAR 2
 - Year 2 students will repeat year 1 performance assessments for more practice.
 - Year 2 students will help teach mathematics skills to year 1 student
+###############################################################################
+
+Competencies: 
 ********************************************************************************
 C19: 	Introduction to electronics and micro-controllers (Arduino)
 Performance Assessments: 
@@ -381,16 +439,21 @@ YEAR 2
 - Students will refine Arduino code and develop unique inidividal projects. 
 - Students will have to two Arduino communicate with eachother using Radio Frequency (RF).
 	NRF24L01+ 2.4GHz Wireless RF Transceiver 
+###############################################################################
 
+Competencies: 
 ********************************************************************************
 C20: 	Culminating Small Group Project
 Performance Assessments: 
 YEAR 1
 - Students will work on a two week approved project of their choice. This project must be associated with Cyber Security and skills we have worked on in class.
 - Students Culminating Small Group Project will be graded with a rubric presented to them prior to the project proposal.
+- Students will participate in FBCTF (Facebook Capture The Flag) by creating problems to be submitted to 
 YEAR 2
 - Year 2 students may work in a year 1 group.
+###############################################################################
 
+Competencies: 
 *******************************************************************
 ADVANCED CONCEPTS
 A1:		Windows server installation and configuration 
@@ -401,6 +464,9 @@ YEAR 2
 - Students will research and cinfigure a Windows Deployment Server (WDS) to server as an installation point.
 	WDS (Domain Controller, DHCP, and File Server)
 ISO files follow ISO-9660, the ISO in which stands for International Standards Organization
+###############################################################################
+
+Competencies: 
 *******************************************************************
 A2: 	Advanced networking. 
 		Wireless networking setup. TCP/IP IPV4 and IPV6 DHCP
@@ -410,6 +476,9 @@ YEAR 2
 - Students will use the Cisco routers (2811) and Cisco switchs (2960) to sub-net a network.
 - Student will connect to Cisco routers and switches using Mincom (Linux) and Putty(Windows).
 - Students will use Cisco Command Line Interface (CLI) to configure bare metal routers and switches.
+###############################################################################
+
+Competencies: 
 *******************************************************************
 A3: 	Advanced Linux server configuration.
 		DNS, DHCP, HTTPS, FTP, SQL, MAIL.
@@ -421,6 +490,9 @@ YEAR 2
 - Year 2 students will work together to install and configure on a headless bare metal Linux box:
 	Dnsmasq, DHCP server, Mail server, MariaDB (SQL), and VSFTP.
 - Students will configure DNSmasq with a *.ioe domain or an instructor approved top level domain not used in the real Internet.
+###############################################################################
+
+Competencies: 
 *******************************************************************
 A4:		Advanced authentication. 
 		Amazon Web Services (AWS)
@@ -429,6 +501,9 @@ Performance Assessments:
 YEAR 2
 - Students will perform advanced server deployments using AWS Education services.
 - Stedents will deploy a PHP, MariaDB, Aapache authenticate application on a headless server in the Cyber Security lab then on an AWS server.
+###############################################################################
+
+Competencies: 
 *******************************************************************
 A5: 	Advanced Computer Programming (Python, BASH, PHP and SQL)
 Performance Assessments: 
@@ -440,7 +515,9 @@ YEAR 2
 - Students will develop an authentication web application using PHP or Python.
 - Student will develop BASH script that will perform Linux system and networking tasks.
 	Reference: https://linuxconfig.org/
+###############################################################################
 
+Competencies: 
 
 *******************************************************************
 A6: 	Cryptography, encryption and standard security keys advanced.
@@ -465,6 +542,9 @@ Reference : https://help.github.com/articles/generating-a-new-gpg-key/
 Reference : http://tritechsc.ksd.org/documentation/linux/
 Reference : https://kb.iu.edu/d/aews (University of Indiana)
 Reference : Youtube (HAK5 RSA Keys)
+###############################################################################
+
+Competencies: 
 *******************************************************************
 A7: 	Advanced projects:  Docker, Kubernetes, and FBCTF (Facebook Capture The Flag)
 Performance Assessments: 
@@ -483,7 +563,9 @@ YEAR 2
 	Reference: https://captf.com/  (This link does not have a public ssl certificate) 
 	Reference: https://github.com/tritech-cyber/ctf  (Tri-Tech-Cyber is managed by craig.coleman@ksd.org) 
 - Students will present progress of Advanced projects on a weekly basis.)
-	
+###############################################################################
+
+Competencies: 
 *******************************************************************
 A8: 	USCyberPatriot team competition. https://www.uscyberpatriot.org/
 Performance Assessments: 
@@ -495,6 +577,9 @@ YEAR 2
 - Students will use Cisco Packettracer to solve networking problems.
 - Studemnts will have an opportunity to study content form Cisco Network Academy by being assigned to a NetAcad.com account associated with US Cyber Patriot.
 Reference:  https://www.netacad.com/
+###############################################################################
+
+Competencies: 
 *******************************************************************
 A9:		AWS (Amazon Web Services) Linux configuration and security rules.
 Performance Assessments: 
@@ -503,14 +588,23 @@ YEAR 2
 - Students will study content provided by AWS Educate
 - Students qill be provided with an AWS instance (VM) and a name.pem key do ssh into an AWS instance.
 - Students will set up services and user accounts on an AWS instance.
+###############################################################################
+
+Competencies: 
 *******************************************************************
 A10: 	Year 2 Culminating Individual or Small Group Project
 Performance Assessments: 
 - Students will work on a two week approved project of their choice. This project must be associated with Cyber Security and skills we have worked on in class.
 - Students Culminating Small Group Project will be graded with a rubric presented to them prior to the project proposal.
 
-YEAR 2
+
+
+###############################################################################
+
+Competencies: 
 *******************************************************************
+
+
 COMPUTER SCIENCE STANDARDS
 3A	Grades 9–10
 3B	Grades 11–12 
