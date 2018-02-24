@@ -102,7 +102,6 @@ Contributes to the learning environment by consistent attendance
 * Equipment Safety and Maintenance
 * Utilizes equipment efficiently and safely
 * The Employability Rubric is integrated into all standards. The students are assessed on the employability rubric each week by the instructor.
-
 - Academic Portfolio: All students are required to complete an academic portfolio, which includes a resume, application, application letter, mission statement, employability skills rubric, program competency checklist (grades, progress report, transcripts, industry certifications, leadership, final project including a presentation and reflection paper, best works, high school & beyond plan, and log of outside hours (30 hours minimum including community service).
 
 - The student’s culminating (final project) is a presentation of their final reflection paper and academic portfolio.  The project is assessed by the teacher, students, and guests using rubrics. 
@@ -165,13 +164,8 @@ YEAR 2
 - Students will manage a remote Linux and Windows server and deploy security measures.
 ###############################################################################
 Competencies: 
-- Course competencies will provide prerequisites skills for students in the following degrees at Columbia Basin College (Pasco, WA): Cyber Security Degrees/Certificates
-Cyber Security 			Bachelor Degree
-Cyber Security 			AAS Degree
-Network Administrator 	AAS Degree
-Network and Security 	One-Year Certificate
-Network and Security 	Certificate
-- Course competencies will provide prerequisites skills for students in the following COMPIA certification:
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
 Linux+, Network+, Security+, Cloud+ and CCNA (Cisco).
 
 ********************************************************************************
@@ -204,16 +198,10 @@ YEAR 2
 	Examples: 755 for a directory is: drwx r-x r-x
 ###############################################################################
 Competencies: 
-- Course competencies will provide prerequisites skills for students in the following degrees at Columbia Basin College (Pasco, WA): Cyber Security Degrees/Certificates
-Cyber Security 			Bachelor Degree
-Cyber Security 			AAS Degree
-Network Administrator 	AAS Degree
-Network and Security 	One-Year Certificate
-Network and Security 	Certificate
-- Course competencies will provide prerequisites skills for students in the following COMPIA certification:
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
 Linux+, Network+, Security+, Cloud+ and CCNA (Cisco).
 ********************************************************************************
-
 C5:		Linux command line and introduction to BASH scripting. (BASH = Bourne Again SHell)
 Performance Assessments:
 YEAR 1
@@ -233,13 +221,8 @@ YEAR 2
 - Students will refine and improve their github.com BASH repository.
 ###############################################################################
 Competencies: 
-- Course competencies will provide prerequisites skills for students in the following degrees at Columbia Basin College (Pasco, WA): Cyber Security Degrees/Certificates
-Cyber Security 			Bachelor Degree
-Cyber Security 			AAS Degree
-Network Administrator 	AAS Degree
-Network and Security 	One-Year Certificate
-Network and Security 	Certificate
-- Course competencies will provide prerequisites skills for students in the following COMPIA certification:
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
 Linux+, Network+, Security+, Cloud+ and CCNA (Cisco).
 ********************************************************************************
 C6:  	Linux server service installation and configuration. (Apache2, VSFTPD, Samba, and SSH)
@@ -259,13 +242,8 @@ YEAR 2
 - Student will propagate custom web server logs.
 ###############################################################################
 Competencies: 
-- Course competencies will provide prerequisites skills for students in the following degrees at Columbia Basin College (Pasco, WA): Cyber Security Degrees/Certificates
-Cyber Security 			Bachelor Degree
-Cyber Security 			AAS Degree
-Network Administrator 	AAS Degree
-Network and Security 	One-Year Certificate
-Network and Security 	Certificate
-- Course competencies will provide prerequisites skills for students in the following COMPIA certification:
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
 Linux+, Network+, Security+, Cloud+ and CCNA (Cisco).
 ********************************************************************************
 C7: 	HTML5  
@@ -300,7 +278,9 @@ YEAR 1 - CS 114: HTML5 (Columbia Basin College (CBC) course equivalency.)
 - Students will complete all HTML year 1 assignments and earn 85% or better to receive CBC CS-114 5 credits.
 - Follow w3.org standards posted at https://www.w3.org/TR/html5/semantics.html#semantics and modeled at w3schools.com
 - HTML5 standards posted at https://www.w3.org/TR/html5/.
-= CSS standards posted at https://www.w3.org/Style/CSS/specs.en.html
+- CSS standards posted at https://www.w3.org/Style/CSS/specs.en.html
+
+
 
 YEAR 2 - CS 115:HTML5-Cascading Style Sheets (Columbia Basin College course equivalency.)
 	Students learn how to use Cascading Style Sheets to control the appearance and layout of HTML and XML documents; how to control text properties such as typeface, size, etc., and box properties such as width, margins, etc. to control layout; to use media queries to build pages that are responsive and mobile friendly; and how to use CSS3 special effects to do things like controlling transparency, rotating objects, and adding glows and shadows. 
@@ -309,7 +289,8 @@ YEAR 2 - CS 115:HTML5-Cascading Style Sheets (Columbia Basin College course equi
 - Students will complete all HTML year 2 assignments and earn 85% or better to receive CBC CS-115 5 credits.
 - Follow w3.org standards posted at https://www.w3.org/TR/html5/semantics.html#semantics and modeled at w3schools.com
 - HTML5 standards posted at https://www.w3.org/TR/html5/.
-= CSS standards posted at https://www.w3.org/Style/CSS/specs.en.html
+- CSS standards posted at https://www.w3.org/Style/CSS/specs.en.html
+
 ********************************************************************************
 C8:		Cryptography, encryption, security keys and authentication introduction.
 		 Logic Gates and RSA Keys. 
@@ -328,7 +309,9 @@ YEAR 2
 ###############################################################################
 Competencies: 
 - Use standard digital certificates in a variety of applications.
-
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
+Linux+, Network+, Security+ and Cloud+.
 ********************************************************************************		
 C9:		GIT and Github.com basics.
 Performance Assessments:
@@ -346,8 +329,9 @@ YEAR 2
 
 Competencies: 
 - Follow GIT standards using github.com.
-- Follow command line stardards.
+- Follow command line standards.
 - Post and update code professionally.
+- Course competencies will provide prerequisites skills for post secondary education.
 
 ********************************************************************************
 C10: 	Introduction to computer programming (Python, BASH, PHP, C, C++, Java, Javascript and SQL) 
@@ -390,6 +374,7 @@ C https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
 C++ http://en.cppreference.com/w/
 SQL http://mariadb.org/
 PHP http://php.net
+- Course competencies will provide prerequisites skills for post secondary education.
 
 ********************************************************************************
 C11: 	Computer basics (Power supply, motherboard, RAM, CPU, video, audio, inputs, USB, and Ethernet)
@@ -406,9 +391,9 @@ YEAR 2
 - Students help year 1 students with computer basics and RAM installation.
 - Students will assist in repairing computers for the Tri-Tech Computer Donation program.
 ###############################################################################
-
 Competencies: 
-COMPTIA A+ Standards.
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA A+.
 ********************************************************************************
 C12: Networking.
 		(Open System Interconnection (OSI) Model, hardware, wired, wireless, monitoring tools, and CISCO)
@@ -439,8 +424,10 @@ YEAR 2
 - Students will refine Cisco CLI.
 ###############################################################################
 Competencies: 
-COMPTIA NETWORK+ Standards
-Cisco CLI Standards
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
+Linux+, Network+, Security+, Cloud+ and CCNA (Cisco).
+- Cisco Command Line Interface (CLI) Standards
+- Cisco Networking Standards
 ********************************************************************************
 C13:	Linux Vitalization.  
 		Kernel Virtual Machine (KVM), VMWare, Hyper-V and Virtual Box.
@@ -462,7 +449,8 @@ YEAR 2
 Competencies: 
 - Kernel Virtual Machine (KVM) reommended by Kennewick School Dsitrict Advisory Committee
 - https://www.linux-kvm.org/page/Main_Page Documentation and Standards
-
+- Course competencies will provide prerequisites skills for the following COMPTIA Linux+.
+- Course competencies will provide prerequisites skills for post secondary education.
 ********************************************************************************
 C14:	Microsoft 
 		Windows client installation and networking. 
@@ -477,8 +465,9 @@ YEAR 2
 - Year 2 students will repeat year 1 performance assessments if they need more practice.
 - Students will extend their knowledge of MMC.
 ###############################################################################
-
-Competencies: 
+Competencies: '- Course competencies will provide prerequisites skills for the following COMPTIA A+.
+Use Microsoft Developers Network https://msdn.microsoft.com/en-us/
+Use https://imagine.microsoft.com/en-us  (Students will create a Microsoft Imagine account for free software).
 ********************************************************************************
 C18:	Mathematics, base conversions, logic gates and computer science mathematics.
 Performance Assessments: 
@@ -494,8 +483,10 @@ YEAR 2
 - Year 2 students will repeat year 1 performance assessments for more practice.
 - Year 2 students will help teach mathematics skills to year 1 student
 ###############################################################################
-
 Competencies: 
+- Washington State Mathematics Standards http://www.k12.wa.us/Mathematics/Standards.aspx
+- Course competencies will provide prerequisites skills for post secondary education.
+
 ********************************************************************************
 C19: 	Introduction to electronics and micro-controllers (Arduino)
 Performance Assessments: 
@@ -515,8 +506,9 @@ YEAR 2
 - Students will have to two Arduino communicate with eachother using Radio Frequency (RF).
 	NRF24L01+ 2.4GHz Wireless RF Transceiver 
 ###############################################################################
-
 Competencies: 
+Use standard Arduino code. https://www.arduino.cc/
+
 ********************************************************************************
 C20: 	Culminating Small Group Project
 Performance Assessments: 
@@ -527,8 +519,8 @@ YEAR 1
 YEAR 2
 - Year 2 students may work in a year 1 group.
 ###############################################################################
-
 Competencies: 
+- Project recommended by Kennewick School District Computer Science Advisory Committee
 *******************************************************************
 ADVANCED CONCEPTS
 A1:		Windows server installation and configuration 
@@ -540,8 +532,11 @@ YEAR 2
 	WDS (Domain Controller, DHCP, and File Server)
 ISO files follow ISO-9660, the ISO in which stands for International Standards Organization
 ###############################################################################
-
 Competencies: 
+Use Microsoft Developers Network https://msdn.microsoft.com/en-us/
+Use https://imagine.microsoft.com/en-us  (Students will create a Microsoft Imagine account for free software).
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications: Network+, Security+,  and Cloud+ .
 *******************************************************************
 A2: 	Advanced networking. 
 		Wireless networking setup. TCP/IP IPV4 and IPV6 DHCP
@@ -552,8 +547,10 @@ YEAR 2
 - Student will connect to Cisco routers and switches using Mincom (Linux) and Putty(Windows).
 - Students will use Cisco Command Line Interface (CLI) to configure bare metal routers and switches.
 ###############################################################################
-
 Competencies: 
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
+Linux+, Network+, Security+, Cloud+ and CCNA (Cisco).
 *******************************************************************
 A3: 	Advanced Linux server configuration.
 		DNS, DHCP, HTTPS, FTP, SQL, MAIL.
@@ -566,7 +563,9 @@ YEAR 2
 	Dnsmasq, DHCP server, Mail server, MariaDB (SQL), and VSFTP.
 - Students will configure DNSmasq with a *.ioe domain or an instructor approved top level domain not used in the real Internet.
 ###############################################################################
-
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
+Linux+, Network+, Security+, Cloud+ and CCNA (Cisco).
 Competencies: 
 *******************************************************************
 A4:		Advanced authentication. 
@@ -577,8 +576,10 @@ YEAR 2
 - Students will perform advanced server deployments using AWS Education services.
 - Stedents will deploy a PHP, MariaDB, Aapache authenticate application on a headless server in the Cyber Security lab then on an AWS server.
 ###############################################################################
-
 Competencies: 
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
+Linux+, Network+, Security+, Cloud+ and CCNA (Cisco).
 *******************************************************************
 A5: 	Advanced Computer Programming (Python, BASH, PHP and SQL)
 Performance Assessments: 
@@ -591,8 +592,16 @@ YEAR 2
 - Student will develop BASH script that will perform Linux system and networking tasks.
 	Reference: https://linuxconfig.org/
 ###############################################################################
-
 Competencies: 
+- Follow standard programming syntax for each programming language.
+Examples:
+Python	https://www.python.org/
+Java https://docs.oracle.com/javase/8/docs/
+C https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html
+C++ http://en.cppreference.com/w/
+SQL http://mariadb.org/
+PHP http://php.net
+- Course competencies will provide prerequisites skills for post secondary education.
 
 *******************************************************************
 A6: 	Cryptography, encryption and standard security keys advanced.
@@ -618,8 +627,11 @@ Reference : http://tritechsc.ksd.org/documentation/linux/
 Reference : https://kb.iu.edu/d/aews (University of Indiana)
 Reference : Youtube (HAK5 RSA Keys)
 ###############################################################################
-
 Competencies: 
+- Use standard digital certificates in a variety of applications.
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
+Linux+, Network+, Security+, Cloud+ and CCNA (Cisco).
 *******************************************************************
 A7: 	Advanced projects:  Docker, Kubernetes, and FBCTF (Facebook Capture The Flag)
 Performance Assessments: 
@@ -639,8 +651,12 @@ YEAR 2
 	Reference: https://github.com/tritech-cyber/ctf  (Tri-Tech-Cyber is managed by craig.coleman@ksd.org) 
 - Students will present progress of Advanced projects on a weekly basis.)
 ###############################################################################
-
 Competencies: 
+- Docker and Kubernetes projects are recommended by Kennewick School District Computer Science Advisory Committee
+- FBCTF is a project coordinated with Pacific Northwest National Laboratory (PNNL) https://www.pnnl.gov/
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
+Linux+, Network+, Security+ and Cloud+.
 *******************************************************************
 A8: 	USCyberPatriot team competition. https://www.uscyberpatriot.org/
 Performance Assessments: 
@@ -653,10 +669,16 @@ YEAR 2
 - Studemnts will have an opportunity to study content form Cisco Network Academy by being assigned to a NetAcad.com account associated with US Cyber Patriot.
 Reference:  https://www.netacad.com/
 ###############################################################################
-
 Competencies: 
+- Follow US Cyber Patriot guide lines when competing.
+- Use US Cyber Patriot training materials.
+- Use Cyber Patriot is recommended by Pacific Northwest National Laboratory (PNNL) https://www.pnnl.gov/
+- Cisco provides training materials for US Cyber Patriot using https://www.netacad.com/
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
+Linux+, Network+, Security+, Cloud+ and CCNA (Cisco).
 *******************************************************************
-A9:		AWS (Amazon Web Services) Linux configuration and security rules.
+A9:		Amazon Web Services(AWS) Linux configuration and security rules.
 Performance Assessments: 
 YEAR 2
 - Students will enroll in Amazon Web Services (AWS) Educate https://www.awseducate.com/Registration
@@ -664,19 +686,22 @@ YEAR 2
 - Students qill be provided with an AWS instance (VM) and a name.pem key do ssh into an AWS instance.
 - Students will set up services and user accounts on an AWS instance.
 ###############################################################################
-
 Competencies: 
+- Use Amazon Web Services(AWS) ethically and securely.
+- Use Amazon Web Services(AWS) while monitoring $200 budget.
+	AWS Education provides institutions with a $200 credit for use with cloud services.
+- Course competencies will provide prerequisites skills for post secondary education.
+- Course competencies will provide prerequisites skills for the following COMPTIA certifications:
+Linux+, Network+, Security+ and Cloud+.
 *******************************************************************
 A10: 	Year 2 Culminating Individual or Small Group Project
 Performance Assessments: 
 - Students will work on a two week approved project of their choice. This project must be associated with Cyber Security and skills we have worked on in class.
 - Students Culminating Small Group Project will be graded with a rubric presented to them prior to the project proposal.
 
-
-
 ###############################################################################
 Competencies: 
-- Project recommended by Kennewick School District Advisory
+- Project recommended by Kennewick School District Computer Science Advisory Committee
 *******************************************************************
 
 
