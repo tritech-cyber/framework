@@ -713,7 +713,7 @@ Performance Assessments:
 YEAR 2
 - Students will enroll in Amazon Web Services (AWS) Educate https://www.awseducate.com/Registration
 - Students will study content provided by AWS Educate
-- Students qill be provided with an AWS instance (VM) and a name.pem key do ssh into an AWS instance.
+- Students will be provided with an AWS instance (VM) and a name.pem key do ssh into an AWS instance.
 - Students will set up services and user accounts on an AWS instance.
 ###############################################################################
 Competencies: 
