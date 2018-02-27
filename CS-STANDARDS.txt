@@ -26,15 +26,19 @@ N	Networks and the Internet
 3A-A-3-10	Design algorithms using sequence, selection, and iteration. 
 3A-A-3-11	Explain and demonstrate how modeling and simulation can be used to explore natural phenomena (e.g., flocking behaviors, queueing, life cycles). 
 3A-A-6-12	Use a systematic approach and debugging tools to independently debug a program (e.g., setting breakpoints, inspecting variables with a debugger). 
+
+
 3A-C-7-13	Develop and apply criteria (e.g., power consumption, processing speed, storage space, battery life, cost, operating system) for evaluating a computer system for a given purpose (e.g., system specification needed to run a game, web browsing, graphic design or video editing). 
 3A-C-5-14	Create, extend, or modify existing programs to add new features and behaviors using different forms of inputs and outputs (e.g., inputs such as sensors, mouse clicks, data sets; outputs such as text, graphics, sounds). 
 3A-C-4-15	Demonstrate the role and interaction of a computer embedded within a physical system, such as a consumer electronic, biological system, or vehicle, by creating a diagram, model, simulation, or prototype.  
 3A-C-4-16	Describe the steps necessary for a computer to execute high compilation to machine language, interpretation, fetch-decode-execute https://www.cise.ufl.edu/~mssz/CompOrg/CDAintro.html. 
+
 3A-D-5-17	Create computational models that simulate real-world systems (e.g., ecosystems, epidemics, spread of ideas). 
 3A-D-4-18	Convert between binary, decimal, and hexadecimal representations of data (e.g., convert hexadecimal color codes to decimal percentages, ASCII/Unicode representation). 
 3A-D-4-19	Analyze the representation tradeoffs among various forms of digital information (e.g., lossy versus lossless compression, encrypted vs. unencrypted, various image representations). 
 3A-D-3-20	Discuss techniques used to store, process, and retrieve different amounts of information (e.g., files, databases, data warehouses). 
 3A-D-3-21	Apply basic techniques for locating and collecting small- and large-scale data sets (e.g., creating and distributing user surveys, accessing real-world data sets). 
+
 3A-I-2-22	Debate the social and economic implications associated with ethical and unethical computing practices (e.g., intellectual property rights, hacktivism, software piracy, diesel emissions testing scandal, new computers shipped with malware).  
 3A-I-7-23	Compare and contrast information access and distribution rights.  
 3A-I-7-24	Discuss implications of the collection and large-scale analysis of information about individuals (e.g., how businesses, social media, and government collect and use personal data). 
@@ -43,6 +47,7 @@ N	Networks and the Internet
 3A-I-1-27	Demonstrate how computing enables new forms of experience, expression, communication, and collaborating. 
 3A-I-1-28	Explain the impact of the digital divide (i.e., uneven access to computing, computing education, and interfaces) on access to critical information.  
 3A-I-6-29	Redesign user interfaces (e.g., webpages, mobile applications, animations) to be more inclusive, accessible, and minimizing the impact of the designer's inherent bias.
+
 3A-N-7-30	Describe key protocols and underlying processes of Internet-based services (e.g., http/https and SMTP/IMAP, routing protocols).  
 3A-N-4-31	Illustrate the basic components of computer networks (e.g., draw logical and topological diagrams of networks including routers, switches, servers, and end user devices; create model with string and paper).  
 3A-N-1-32	Compare and contrast multiple viewpoints on cybersecurity (e.g., from the perspective of security experts, privacy advocates, the government).
