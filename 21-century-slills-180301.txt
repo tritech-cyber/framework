@@ -1,0 +1,86 @@
+* LEARNING & INNOVATION
+
+** Creativity and Innovation
+*** Think Creatively
+- Students will think creatively when designating static and dynamic web pages using standard HTML5
+
+*** Work Creatively with Others
+- Students will work creativity with others when designing a group web site using standard HTML5, PHP, and SQL.
+###########################################
+*** Implement Innovations
+- Students will implement innovations when developing Arduino Micro controller circuits that use various inputs such as: infrared decoders, buttons and ultrasonic sensors.
+
+** Critical Thinking and Problem Solving
+###########################
+*** Reason Effectively
+- Students will reason effectively when implementing standard looping techniques when coding in a variety of languages. 
+###########################
+*** Use Systems Thinking
+- Students will use systems thinking when integrating multiple services when configuring a Linux and Windows server.
+####################
+*** Make Judgments and Decisions
+- Students will make judgments and decisions when designing a computer system related to cost and performance.
+###################
+*** Solve Problems
+- Students will solve problems relevant to the world of working in the final individual or group project.
+######################################################################
+** Communication and Collaboration
+*** Communicate Clearly
+- Students will communicate clearly when students present information during group or individual presentations.
+** Collaborate with Others
+- Students will collaborate with others when working on individual and group assignments dealing with system configuration.
+##################################################################################################
+* INFORMATION, MEDIA & TECHNOLOGY SKILLS
+** Information Literacy
+*** Access and evaluate Information
+- Students will access and evaluate information when researching Linux system configuration.
+- Students will access and evaluate information when researching Windows system configuration.
+#####################################################################
+*** Use and Manage Information
+- Students will use and manage information when writing their career research paper.
+#####################################################################################
+** Media Literacy
+** Analyze Media
+- Students will analyze media to determine it validity when making a technical decision.
+** Create Media Products
+- Students will create media products for individual and group presentations.
+###############################################
+Information, Communications and Technology 
+(ICT Literacy)
+- Students will apply technology effectively when solving problems related to the individual of group projects.
+#########################################################################
+* LIFE & CAREER SKILLS
+** Flexibility and Adaptability
+*** Adapt to Change
+#- Students will adapt to change working on their Employability Portfolio  
+*** Be Flexible
+#- Students will be flexible when considering realistic career goals.
+######################################################################
+** Initiative and Self-Direction
+* Manage Goals and Time
+- Student will manage goals and time on long term group and individual projects.
+* Work Independently
+- Students will work independently on debugging programming assignments.
+* Be Self-Directed Learners
+- Student will be a self-directed learner when working on on-line curriculum when learning and practicing new skills.
+###################################################################
+**Social and Cross-Cultural
+* Interact Effectively with Others
+- Students will interact effectively with others during team building activities, knowing teamwork is a key component in the work force.
+* Work Effectively in Diverse Teams
+- Students will work effectively in diverse teams when working on group github.com programming assignments. 
+- Students will work effectively in diverse teams in cross program activities.
+#########################################
+** Productivity and Accountability
+* Manage Projects
+- Students will manage projects with others students and distribute the workload.  Such as a group web site.
+* Produce Results
+- Students will develop a server or write software that will produce results and function as a working product.
+** Leadership and Responsibility
+##########################################
+*** Guide and Lead Others
+- Students will guide and lead others in United States Cyber Patriot competition.
+*** Be Responsible to Others
+- Students will be responsible in the  United States Cyber Patriot competition.
+
+
