@@ -1,0 +1,27 @@
+Tri-Tech Cyber Security 
+
+CPUs, RAM, and Motherboards measures understanding of the primary integrated circuit of the computer,the memory it uses, and the motherboard on which it is found.
+
+Storage Devices and Media assesses knowledge of storage devices and removable media on whichcomputer systems record information for later retrieval.
+
+Network Cabling and Network Types tests understanding of the cabling and connectivity of variousnetwork types. 
+Also analyzes familiarity with network types in the local and wide areas.
+
+Hardware and Network Troubleshooting evaluates the ability to analyze and correct problems withcomputing and networking hardware and configurations.
+
+Windows Operating System, Commands, and Security tests understanding of the key features of theWindows operating systems, knowledge of Windows commands and security settings that are used toadminister a computer system.
+
+Linux User Administration and Authentication tests understanding of user/group/password administrationand authentication mechanisms in Linux systems.
+
+Linux deskops (XCFE, Raspberry Pi Debain Desktop)  
+
+General IT Concepts evaluates understanding of common IT technology usage, health and safety usingthe computer and computer copyright laws.
+
+Working with the Desktop determines knowledge of desktop operations and management, such asworking with icons and windows.
+
+Hardware Concepts tests knowledge of hardware components such as the CPU, memory and input andoutput devices.
+
+Managing Users, Groups, Computers and Group Policy examines ability to create new objects, managegroup membership, grant access, configure options and profiles and manager group policies in Windows Server 20**.
+
+Troubleshooting Windows 20** Server tests experience with troubleshooting and resolving systemproblems, including permissions issues, authentication problems, and network connectivity issues.
+
